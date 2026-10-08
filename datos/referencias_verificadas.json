@@ -1,0 +1,1508 @@
+[
+ {
+  "id": "UDEA-01",
+  "tema": [
+   "madurez_modelos",
+   "innovacion",
+   "capacidades"
+  ],
+  "cita": "Arias Pérez, J. E., & Castaño Ríos, C. E. (2014). Madurez de las capacidades de innovación en empresas colombianas. Revista Venezolana de Gerencia, 19(66), 306-318.",
+  "url": "https://www.redalyc.org/pdf/290/29031265007.pdf",
+  "doi": "",
+  "tipo": "academico_udea",
+  "autor_udea": "José Enrique Arias Pérez (Universidad de Antioquia, Facultad de Ciencias Económicas)",
+  "afirma": "Evaluó la madurez de las capacidades de innovación de cinco empresas líderes de Medellín con el modelo de Essmann y Du Preez (2009); todas quedaron en el nivel 'formalizado y predecible': aplican mejores prácticas, pero los individuos no se las apropian de forma sistemática.",
+  "donde": "Resumen y conclusiones",
+  "leido": "abierto",
+  "frase": "las cinco empresas líderes de Medellín evaluadas quedaron en el nivel 'formalizado y predecible' de madurez de capacidades de innovación: aplican buenas prácticas, pero las personas no se las apropian de forma sistemática."
+ },
+ {
+  "id": "UDEA-02",
+  "tema": [
+   "innovacion",
+   "crm_clientes",
+   "capacidades"
+  ],
+  "cita": "García Osorio, O., Quintero Quintero, J., & Arias-Pérez, J. (2014). Capacidades de innovación, desempeño innovador y desempeño organizacional en empresas del sector servicios. Cuadernos de Administración, 27(49), 86-108. https://doi.org/10.11144/Javeriana.cao27-49.cidi",
+  "url": "http://revistas.javeriana.edu.co/index.php/cuadernos_admon/article/view/13374",
+  "doi": "10.11144/Javeriana.cao27-49.cidi",
+  "tipo": "academico_udea",
+  "autor_udea": "José Arias-Pérez (Universidad de Antioquia)",
+  "afirma": "En empresas de servicios, solo las capacidades orientadas al cliente y al marketing influyen en el desempeño innovador, que a su vez mejora los resultados organizacionales, con más efecto en los no financieros.",
+  "donde": "Resumen",
+  "leido": "abierto",
+  "frase": "en empresas de servicios, solo las capacidades orientadas al cliente y al marketing influyen en el desempeño innovador, y este mejora los resultados de la organización."
+ },
+ {
+  "id": "UDEA-03",
+  "tema": [
+   "innovacion",
+   "barreras"
+  ],
+  "cita": "Coronado Medina, A., Echeverri, A., & Arias Pérez, J. E. (2014). Aproximación a la cooperación en innovación en empresas del Programa de Asociatividad y Desarrollo Empresarial Sectorial -PADES- en Antioquia (Colombia). Revista Facultad de Ciencias Económicas: Investigación y Reflexión, 22(2), 185-205.",
+  "url": "https://www.redalyc.org/pdf/909/90933005011.pdf",
+  "doi": "",
+  "tipo": "academico_udea",
+  "autor_udea": "Alejandro Coronado Medina, Andrea Echeverri y José Enrique Arias Pérez (Universidad de Antioquia)",
+  "afirma": "Las empresas del programa PADES cooperan sobre todo entre sí, con innovaciones de bajo conocimiento (marketing y organización) financiadas con recursos propios; la falta de confianza y de cultura son sus mayores obstáculos para cooperar en innovación.",
+  "donde": "Resumen",
+  "leido": "abierto",
+  "frase": "las empresas del programa PADES cooperan sobre todo entre sí, con innovaciones de marketing y organización, y la falta de confianza y de cultura son sus mayores obstáculos."
+ },
+ {
+  "id": "UDEA-04",
+  "tema": [
+   "innovacion",
+   "estrategia"
+  ],
+  "cita": "Perdomo Charry, G., Arias Pérez, J. E., & Lozada Barahona, N. E. (2014). Business incubator research: A review and future directions. Pensamiento & Gestión, 37, 41-65.",
+  "url": "https://www.redalyc.org/pdf/646/64632634003.pdf",
+  "doi": "",
+  "tipo": "academico_udea",
+  "autor_udea": "Perdomo Charry, Arias Pérez y Lozada Barahona (Universidad de Antioquia, Departamento de Ciencias Administrativas)",
+  "afirma": "Revisión sistemática de 50 artículos (1985-2012) sobre incubadoras: la investigación es fragmentada y poco desarrollada, y se requieren enfoques interdisciplinarios que consideren incubado, incubadora, red y comunidad.",
+  "donde": "Resumen y conclusiones",
+  "leido": "abierto",
+  "frase": "la investigación sobre incubadoras de empresas es fragmentada y requiere enfoques interdisciplinarios (revisión de 50 artículos)."
+ },
+ {
+  "id": "UDEA-05",
+  "tema": [
+   "innovacion"
+  ],
+  "cita": "Mesa Callejas, R. J., & Salazar Vázquez, J. (2012). La Alianza Universidad-Empresa-Estado y los procesos de I+D: una mirada al caso antioqueño. Perfil de Coyuntura Económica, 19, 157-176.",
+  "url": "https://www.redalyc.org/pdf/861/86127730006.pdf",
+  "doi": "",
+  "tipo": "academico_udea",
+  "autor_udea": "Ramón Javier Mesa Callejas y Jéssica Salazar Vázquez (Universidad de Antioquia)",
+  "afirma": "Sostiene que mayor inversión en I+D eleva la productividad sectorial y documenta cómo el Comité Universidad-Empresa-Estado de Antioquia ha facilitado proyectos de innovación que ayudan a las firmas a reducir costos y mejorar calidad.",
+  "donde": "Resumen",
+  "leido": "abierto",
+  "frase": "una mayor inversión en I+D eleva la productividad sectorial, y la alianza Universidad-Empresa-Estado de Antioquia ha facilitado proyectos que ayudan a reducir costos y mejorar la calidad."
+ },
+ {
+  "id": "UDEA-06",
+  "tema": [
+   "crm_clientes"
+  ],
+  "cita": "Jiménez Ospina, R., & Parra Moreno, G. A. (2018). Co creación de valor y la importancia sobre la lealtad en los servicios de consultoría [Trabajo de grado, Maestría en Administración]. Universidad de Antioquia, Facultad de Ciencias Económicas. Director: J. F. Tavera Mesías.",
+  "url": "https://bibliotecadigital.udea.edu.co/server/api/core/bitstreams/645e3577-c47e-422f-bfc9-68399a43e165/content",
+  "doi": "",
+  "tipo": "academico_udea",
+  "autor_udea": "Dirigido por Juan Fernando Tavera Mesías (Universidad de Antioquia, Facultad de Ciencias Económicas)",
+  "afirma": "Con 221 pymes de Medellín, encontró que la co-creación de valor influye positivamente en satisfacción, confianza y compromiso, y estos a su vez en la lealtad del cliente.",
+  "donde": "Resumen y conclusiones",
+  "leido": "abierto",
+  "frase": "en 221 pymes de Medellín, la co-creación de valor influye en la satisfacción, la confianza y el compromiso, y estos a su vez en la lealtad del cliente."
+ },
+ {
+  "id": "ACAD-01",
+  "tema": [
+   "transformacion_pymes",
+   "madurez_modelos",
+   "estrategia"
+  ],
+  "cita": "Verhoef, P. C., Broekhuizen, T., Bart, Y., Bhattacharya, A., Dong, J. Q., Fabian, N., & Haenlein, M. (2021). Digital transformation: A multidisciplinary reflection and research agenda. Journal of Business Research, 122, 889-901. https://doi.org/10.1016/j.jbusres.2019.09.022",
+  "url": "https://research.rug.nl/en/publications/digital-transformation-a-multidisciplinary-reflection-and-researc/",
+  "doi": "10.1016/j.jbusres.2019.09.022",
+  "tipo": "academico",
+  "autor_udea": "",
+  "afirma": "Distingue tres etapas del proceso (digitización, digitalización y transformación digital) y delinea los activos y capacidades que exige la transformación y sus implicaciones organizacionales y de desempeño.",
+  "donde": "Resumen",
+  "leido": "abierto",
+  "frase": "la transformación digital se distingue de la digitización y la digitalización, y exige activos y capacidades organizacionales específicos."
+ },
+ {
+  "id": "ACAD-02",
+  "tema": [
+   "datos_decisiones"
+  ],
+  "cita": "Brynjolfsson, E., & McElheran, K. (2016). Data in action: Data-driven decision making in U.S. manufacturing (CES Working Paper 16-06). U.S. Census Bureau. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2722502",
+  "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2722502",
+  "doi": "",
+  "tipo": "academico",
+  "autor_udea": "",
+  "afirma": "En plantas manufactureras de EE. UU., las que adoptaron decisiones basadas en datos mostraron en promedio un valor agregado cerca de 3 % mayor que las no adoptantes; las firmas pequeñas adoptaron más tarde pero también mejoraron.",
+  "donde": "Resumen",
+  "leido": "abierto",
+  "corta": "Brynjolfsson y McElheran (2016)",
+  "frase": "en plantas manufactureras de EE. UU., las que adoptaron decisiones basadas en datos tuvieron en promedio cerca de 3 % más de valor agregado."
+ },
+ {
+  "id": "ACAD-03",
+  "tema": [
+   "contabilidad_info_financiera",
+   "costos_equilibrio"
+  ],
+  "cita": "Lavia López, O., & Hiebl, M. R. W. (2015). Management accounting in small and medium-sized enterprises: Current knowledge and avenues for further research. Journal of Management Accounting Research, 27(1), 81-119. https://doi.org/10.2308/jmar-50915",
+  "url": "https://research.jku.at/en/publications/management-accounting-in-small-and-medium-sized-enterprises-curre/",
+  "doi": "10.2308/jmar-50915",
+  "tipo": "academico",
+  "autor_udea": "",
+  "afirma": "Sintetiza la investigación sobre contabilidad de gestión en pymes: su uso es menor y diferente que en las grandes empresas, y depende de factores del entorno, del personal y de la organización.",
+  "donde": "Resumen",
+  "leido": "abierto",
+  "corta": "Lavia López y Hiebl (2015)",
+  "frase": "la contabilidad de gestión en las pymes se usa menos y de forma diferente que en las grandes empresas, y depende del entorno, del personal y de la organización."
+ },
+ {
+  "id": "ACAD-04",
+  "tema": [
+   "transformacion_pymes",
+   "estrategia"
+  ],
+  "cita": "Vial, G. (2019). Understanding digital transformation: A review and a research agenda. The Journal of Strategic Information Systems.",
+  "url": "https://www.ba.ihu.gr/wp-content/uploads/2026/03/Vial_2019.pdf",
+  "doi": "",
+  "tipo": "academico",
+  "autor_udea": "",
+  "afirma": "Revisa 282 trabajos y construye inductivamente un marco de ocho bloques en el que las tecnologías digitales generan disrupciones a las que las organizaciones responden con estrategias, cambios en la creación de valor y cambios estructurales, con barreras internas que condicionan los resultados. Define la transformación digital como un proceso que busca mejorar una entidad mediante cambios significativos en sus propiedades a través de combinaciones de tecnologías de información, computación, comunicación y conectividad.",
+  "donde": "Resumen y Conclusiones",
+  "leido": "abierta y leída",
+  "frase": "Revisa 282 trabajos y construye inductivamente un marco de ocho bloques en el que las tecnologías digitales generan disrupciones a las que las organizaciones responden con estrategias, cambios en la creación de valor y cambios estructurales, con barreras internas que condicionan los resultados. Define la transformación digital como un proceso que busca mejorar una entidad mediante cambios significativos en sus propiedades a través de combinaciones de tecnologías de información, computación, comunicación y conectividad.",
+  "autores": "Vial, G.",
+  "anio": "2019"
+ },
+ {
+  "id": "ACAD-05",
+  "tema": [
+   "liquidez_caja",
+   "rentabilidad_indicadores",
+   "endeudamiento",
+   "supervivencia_empresarial"
+  ],
+  "cita": "Altman, E. I. (1968). Financial Ratios, Discriminant Analysis and the Prediction of Corporate Bankruptcy. The Journal of Finance (según la cita; la página leída no lo indica).",
+  "url": "https://content.wiserfunding.com/insights/research/financial-ratios-discriminant-analysis-and-the-prediction-of-corporate-bankruptcy",
+  "doi": "10.1111/j.1540-6261.1968.tb00843.x",
+  "tipo": "academico",
+  "autor_udea": "",
+  "afirma": "Evalúa si el análisis de razones financieras sigue siendo útil, usando la predicción de quiebra como prueba, mediante análisis discriminante múltiple sobre una muestra inicial de 66 empresas manufactureras (quebradas y no quebradas) y muestras secundarias de validación. Plantea que el análisis tradicional de razones puede combinarse con técnicas estadísticas más rigurosas en lugar de descartarse.",
+  "donde": "Introducción",
+  "leido": "abierta y leída",
+  "frase": "Evalúa si el análisis de razones financieras sigue siendo útil, usando la predicción de quiebra como prueba, mediante análisis discriminante múltiple sobre una muestra inicial de 66 empresas manufactureras (quebradas y no quebradas) y muestras secundarias de validación. Plantea que el análisis tradicional de razones puede combinarse con técnicas estadísticas más rigurosas en lugar de descartarse.",
+  "autores": "Altman, E. I.",
+  "anio": "1968"
+ },
+ {
+  "id": "ACAD-06",
+  "tema": [
+   "estrategia",
+   "transformacion_pymes"
+  ],
+  "cita": "Kane, G. C., Palmer, D., Phillips, A. N., Kiron, D., & Buckley, N. (2015). Strategy, Not Technology, Drives Digital Transformation. MIT Sloan Management Review y Deloitte University Press.",
+  "url": "https://digital.fuerstenberg-forum.de/wp-content/uploads/2014/03/57181-MIT-Deloitte-Digital2015.pdf",
+  "doi": "",
+  "tipo": "academico",
+  "autor_udea": "",
+  "afirma": "Sostiene que la transformación digital depende más de la estrategia, la cultura y el liderazgo que de la tecnología. Reporta que solo 15 % de los encuestados en etapa temprana tenía una estrategia digital clara, frente a más de 80 % de las organizaciones en etapa de madurez.",
+  "donde": "Resumen ejecutivo y Conclusión",
+  "leido": "abierta y leída",
+  "corta": "Kane et al. (2015)",
+  "frase": "Sostiene que la transformación digital depende más de la estrategia, la cultura y el liderazgo que de la tecnología. Reporta que solo 15 % de los encuestados en etapa temprana tenía una estrategia digital clara, frente a más de 80 % de las organizaciones en etapa de madurez.",
+  "autores": "Kane, G. C., Palmer, D., Phillips, A. N., Kiron, D., & Buckley, N.",
+  "anio": "2015"
+ },
+ {
+  "id": "ACAD-07",
+  "tema": [
+   "liquidez_caja",
+   "rentabilidad_indicadores",
+   "endeudamiento"
+  ],
+  "cita": "Terreno, D. D., Pérez, J. O., & Sattler, S. A. (2020). La relación entre liquidez, rentabilidad y solvencia: Una investigación empírica por el modelo de ecuaciones estructurales. Contaduría Universidad de Antioquia, 77, 13-35. https://doi.org/10.17533/udea.rc.n77a01",
+  "url": "https://revistas.udea.edu.co/index.php/cont/article/view/340216",
+  "doi": "10.17533/udea.rc.n77a01",
+  "tipo": "academico",
+  "autor_udea": "",
+  "afirma": "En firmas que cotizan en la bolsa de Buenos Aires, a mayor capital de trabajo mayor rentabilidad, y existe una relación inversa entre liquidez y deuda de largo plazo.",
+  "donde": "Resumen",
+  "leido": "abierto",
+  "frase": "en firmas de la bolsa de Buenos Aires, a mayor capital de trabajo mayor rentabilidad, y existe una relación inversa entre liquidez y deuda de largo plazo."
+ },
+ {
+  "id": "ACAD-08",
+  "tema": [
+   "contabilidad_info_financiera"
+  ],
+  "cita": "Rey, M. L., & Ruiz, M. del C. (2026). Riesgos de aseguramiento de la información contable: análisis en pymes de Villavicencio, Colombia. Contaduría Universidad de Antioquia, 88, 115-138. https://doi.org/10.17533/udea.rc.n88a05",
+  "url": "https://revistas.udea.edu.co/index.php/cont/article/view/357472",
+  "doi": "10.17533/udea.rc.n88a05",
+  "tipo": "academico",
+  "autor_udea": "",
+  "afirma": "En 204 pymes de comercio y servicios, las entidades concentran esfuerzos en controles generales y dan menos importancia a los específicos, lo que aumenta los riesgos de fraude.",
+  "donde": "Resumen",
+  "leido": "abierto",
+  "frase": "en 204 pymes de comercio y servicios se da prioridad a los controles generales sobre los específicos, lo que aumenta los riesgos de fraude."
+ },
+ {
+  "id": "ACAD-09",
+  "tema": [
+   "capacidades",
+   "transformacion_pymes",
+   "innovacion"
+  ],
+  "cita": "Gámez Araújo, W. G. (2026). Vínculos universidad-empresa a partir de trayectorias de innovación mediadas por capacidades dinámicas en pymes de Colombia y México. Revista Universidad y Empresa, 28(51 esp.), 1-44. https://doi.org/10.12804/revistas.urosario.edu.co/empresa/a.16129",
+  "url": "https://revistas.urosario.edu.co/index.php/empresa/article/view/16129",
+  "doi": "10.12804/revistas.urosario.edu.co/empresa/a.16129",
+  "tipo": "academico",
+  "autor_udea": "",
+  "afirma": "Con 600 pymes de Colombia y México, las capacidades dinámicas mediaron 53,5 % del efecto total de la infraestructura tecnológica sobre el desempeño; en Colombia pesó más la vía de las capacidades.",
+  "donde": "Resumen",
+  "leido": "abierto",
+  "frase": "en 600 pymes de Colombia y México, las capacidades dinámicas explican buena parte (53,5 %) del efecto de la infraestructura tecnológica sobre el desempeño."
+ },
+ {
+  "id": "ACAD-10",
+  "tema": [
+   "innovacion",
+   "capacidades"
+  ],
+  "cita": "Rodríguez Rengifo, J. S., & Quintero Sepúlveda, I. C. (2022). Capacidades de innovación empresarial en América Latina. Revisión de la literatura. Ciencias Administrativas, 19. https://doi.org/10.24215/23143738e096",
+  "url": "https://revistas.unlp.edu.ar/CADM/article/view/10337",
+  "doi": "10.24215/23143738e096",
+  "tipo": "academico",
+  "autor_udea": "",
+  "afirma": "Revisión sistemática (PRISMA) que halla una articulación solo parcial entre las variables de capacidades de innovación estudiadas en América Latina y las del Foro Económico Mundial.",
+  "donde": "Resumen",
+  "leido": "abierto",
+  "frase": "las variables de capacidades de innovación estudiadas en América Latina se articulan solo parcialmente con las del Foro Económico Mundial."
+ },
+ {
+  "id": "ACAD-11",
+  "tema": [
+   "innovacion"
+  ],
+  "cita": "Preciado-Hoyos, Á. (2020). Marco propositivo de relaciones entre innovación colaborativa abierta y comunicación estratégica: aplicación a un grupo de empresas de origen antioqueño. Palabra Clave, 23(2), e2326.",
+  "url": "https://revistas.udem.edu.co/index.php/economico/en/article/view/370",
+  "doi": "",
+  "tipo": "academico",
+  "autor_udea": "",
+  "afirma": "En ocho empresas antioqueñas, la innovación abierta se aplica con proveedores y universidades, pero los comunicadores apoyan la innovación de forma reactiva y no como socios estratégicos.",
+  "donde": "Resumen",
+  "leido": "abierto",
+  "frase": "en ocho empresas antioqueñas, la innovación abierta se aplica con proveedores y universidades, pero la comunicación apoya la innovación de forma reactiva."
+ },
+ {
+  "id": "INST-01",
+  "tema": [
+   "facturacion_electronica"
+  ],
+  "cita": "DIAN. (s. f.). Facturación gratuita. Dirección de Impuestos y Aduanas Nacionales de Colombia.",
+  "url": "https://www.dian.gov.co/impuestos/factura-electronica/facturacion-gratuita/Paginas/default.aspx",
+  "doi": "",
+  "tipo": "institucional",
+  "autor_udea": "",
+  "afirma": "La DIAN ofrece un servicio de software gratuito para quienes deban facturar electrónicamente; exige RUT, software de facturación y certificado de firma digital, que puede solicitarse sin costo por un año en el ambiente de habilitación.",
+  "donde": "Página 'Facturación gratuita'",
+  "leido": "abierto",
+  "corta": "DIAN (s. f.)",
+  "frase": "ofrece un servicio gratuito de facturación electrónica; exige RUT, software de facturación y certificado de firma digital."
+ },
+ {
+  "id": "INST-02",
+  "tema": [
+   "madurez_modelos",
+   "transformacion_pymes",
+   "datos_decisiones",
+   "procesos",
+   "capacidades"
+  ],
+  "cita": "MinTIC & BID. (s. f.). Chequeo Digital. Ministerio de Tecnologías de la Información y las Comunicaciones de Colombia.",
+  "url": "https://chequeodigital.mintic.gov.co/",
+  "doi": "",
+  "tipo": "institucional",
+  "autor_udea": "",
+  "afirma": "Es una herramienta de autoevaluación de madurez digital de unos 25 minutos que mide seis dimensiones: tecnología y habilidades digitales, comunicaciones y canales de venta, organización y personas, estrategia y transformación digital, datos y analítica, y procesos.",
+  "donde": "Página principal",
+  "leido": "abierto",
+  "corta": "MinTIC y BID (s. f.)",
+  "frase": "el Chequeo Digital es una autoevaluación de madurez digital de unos 25 minutos en seis dimensiones: tecnología y habilidades, comunicaciones y canales de venta, organización y personas, estrategia, datos y analítica, y procesos."
+ },
+ {
+  "id": "INST-03",
+  "tema": [
+   "cartera_cobro",
+   "liquidez_caja"
+  ],
+  "cita": "Congreso de la República de Colombia. (2020). Ley 2024 de 2020, por medio de la cual se adoptan normas de pago en plazos justos en el ámbito mercantil. Diario Oficial 51.384.",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_2024_2020.html",
+  "doi": "",
+  "tipo": "normativo",
+  "autor_udea": "",
+  "afirma": "Obliga a los comerciantes a pagar en un plazo máximo de 60 días calendario el primer año y 45 días a partir del segundo; excluye las operaciones entre grandes empresas.",
+  "donde": "Artículo 3 y parágrafo 1",
+  "leido": "abierto",
+  "corta": "Ley 2024 de 2020",
+  "frase": "obliga a pagar en un máximo de 60 días calendario el primer año y 45 días desde el segundo, y excluye las operaciones entre grandes empresas."
+ },
+ {
+  "id": "INST-04",
+  "tema": [
+   "proteccion_datos",
+   "crm_clientes",
+   "ciberseguridad"
+  ],
+  "cita": "Congreso de la República de Colombia. (2012). Ley Estatutaria 1581 de 2012, por la cual se dictan disposiciones generales para la protección de datos personales. Diario Oficial 48.587.",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1581_2012.html",
+  "doi": "",
+  "tipo": "normativo",
+  "autor_udea": "",
+  "afirma": "Exige autorización previa e informada del titular para tratar sus datos, establece principios como finalidad, seguridad y confidencialidad, y deberes del responsable como conservar la autorización y proteger la información.",
+  "donde": "Artículos 1, 4, 9 y 17",
+  "leido": "abierto",
+  "corta": "Ley 1581 de 2012",
+  "frase": "exige autorización previa e informada del titular para tratar sus datos y obliga al responsable a conservarla y a proteger la información."
+ },
+ {
+  "id": "INST-05",
+  "tema": [
+   "supervivencia_empresarial"
+  ],
+  "cita": "Confecámaras (2023). Según estudio de Confecámaras el 33,5 % de las empresas del país sobreviven al término de 5 años. Confecámaras (comunicado sobre el estudio La Supervivencia Empresarial en Colombia).",
+  "url": "https://confecamaras.org.co/segun-estudio-de-confecamaras-el-33-5-de-las-empresas-del-pais-sobreviven-al-termino-de-5-anos/",
+  "doi": "",
+  "tipo": "institucional",
+  "autor_udea": "",
+  "afirma": "Con datos del RUES, el estudio sigue a las unidades productivas creadas en 2017 hasta 2022 y encuentra una supervivencia a cinco años de 33,5 %. La supervivencia crece con el tamaño (micro 33,4 %, pequeña 60,9 %, mediana 73,7 %, grande 85,7 %) y Colombia queda por debajo del promedio OCDE (más de 40 %).",
+  "donde": "Cuerpo del comunicado (resultados)",
+  "leido": "abierta y leída",
+  "corta": "Confecámaras (2023)",
+  "frase": "Con datos del RUES, el estudio sigue a las unidades productivas creadas en 2017 hasta 2022 y encuentra una supervivencia a cinco años de 33,5 %. La supervivencia crece con el tamaño (micro 33,4 %, pequeña 60,9 %, mediana 73,7 %, grande 85,7 %) y Colombia queda por debajo del promedio OCDE (más de 40 %).",
+  "autores": "Confecámaras",
+  "anio": "2023"
+ },
+ {
+  "id": "LEC-001",
+  "tema": [
+   "contabilidad_costos"
+  ],
+  "cita": "Machado, M. A. (2002). De la contabilidad de costos al control de gestión. Contaduría Universidad de Antioquia, n.º 41, pp. 191-211.",
+  "corta": "De la contabilidad de costos al control de gestión",
+  "url": "https://revistas.udea.edu.co/index.php/cont/article/view/25615",
+  "doi": "",
+  "tipo": "academico_udea",
+  "autor_udea": "Publicada en una revista de la Universidad de Antioquia",
+  "afirma": "Argumenta que en entornos muy competitivos la gestión de costos es un sistema estratégico que requiere información integrada y control de causa y efecto, no solo medición de costos y fijación de precios. Propone el tablero de control de costos por actividades como herramienta para gestionar costos en empresas de servicios latinoamericanas. Es un aporte conceptual; el resumen no describe método ni datos empíricos.",
+  "donde": "Resumen",
+  "leido": "abierta y leída",
+  "nivel": "lectura",
+  "frase": "Argumenta que en entornos muy competitivos la gestión de costos es un sistema estratégico que requiere información integrada y control de causa y efecto, no solo medición de costos y fijación de precios. Propone el tablero de control de costos por actividades como herramienta para gestionar costos en empresas de servicios latinoamericanas. Es un aporte conceptual; el resumen no describe método ni datos empíricos.",
+  "autores": "Machado, M. A.",
+  "anio": "2002"
+ },
+ {
+  "id": "LEC-002",
+  "tema": [
+   "contabilidad_costos"
+  ],
+  "cita": "Cuervo Tafur, J. (2001). Control estratégico de costos. Contaduría Universidad de Antioquia, n.º 39, pp. 75-93.",
+  "corta": "Control estratégico de costos",
+  "url": "https://revistas.udea.edu.co/index.php/cont/article/view/25590",
+  "doi": "",
+  "tipo": "academico_udea",
+  "autor_udea": "Publicada en una revista de la Universidad de Antioquia",
+  "afirma": "Sostiene que la apertura económica volvió obligatoria la eficiencia y que la gestión estratégica de costos aumenta las probabilidades de éxito empresarial; sugiere que el bajo costo, más que la diferenciación, es la cualidad a desarrollar por las empresas colombianas. Es un argumento conceptual; el resumen no reporta método ni hallazgos empíricos.",
+  "donde": "Resumen",
+  "leido": "abierta y leída",
+  "nivel": "lectura",
+  "frase": "Sostiene que la apertura económica volvió obligatoria la eficiencia y que la gestión estratégica de costos aumenta las probabilidades de éxito empresarial; sugiere que el bajo costo, más que la diferenciación, es la cualidad a desarrollar por las empresas colombianas. Es un argumento conceptual; el resumen no reporta método ni hallazgos empíricos.",
+  "autores": "Cuervo Tafur, J.",
+  "anio": "2001"
+ },
+ {
+  "id": "LEC-003",
+  "tema": [
+   "contabilidad_costos",
+   "inventarios"
+  ],
+  "cita": "Holguín Vallejo, E. Y., & Muñoz Henao, J. A. (2020). Análisis del aporte de las herramientas de la contabilidad de gestión en las panaderías gourmet y de alta repostería de la ciudad de Medellín. Adversia (Universidad de Antioquia), n.º 25, pp. 1-20.",
+  "corta": "Análisis del aporte de las herramientas de la contabilidad de gestión en…",
+  "url": "https://revistas.udea.edu.co/index.php/adversia/article/view/344888",
+  "doi": "",
+  "tipo": "academico_udea",
+  "autor_udea": "Publicada en una revista de la Universidad de Antioquia",
+  "afirma": "Estudio cualitativo y descriptivo con entrevistas a administradores de cuatro empresas, analizadas con Atlas.ti. Encuentra que ninguna empresa tenía sistemas de costos ni procesos formales de planeación y presupuesto, que las decisiones se basan en datos estimados empíricamente, y concluye que el aporte actual de las herramientas de contabilidad de gestión es muy bajo.",
+  "donde": "Resumen",
+  "leido": "abierta y leída",
+  "nivel": "lectura",
+  "frase": "Estudio cualitativo y descriptivo con entrevistas a administradores de cuatro empresas, analizadas con Atlas.ti. Encuentra que ninguna empresa tenía sistemas de costos ni procesos formales de planeación y presupuesto, que las decisiones se basan en datos estimados empíricamente, y concluye que el aporte actual de las herramientas de contabilidad de gestión es muy bajo.",
+  "autores": "Holguín Vallejo, E. Y., & Muñoz Henao, J. A.",
+  "anio": "2020"
+ },
+ {
+  "id": "LEC-004",
+  "tema": [
+   "contabilidad_costos"
+  ],
+  "cita": "Atehortúa Castrillón, T., & Mejía Valencia, L. C. (2018). Tipos de decisiones con base en las herramientas de contabilidad de gestión en las empresas de confección. Contaduría Universidad de Antioquia, n.º 72, pp. 107-129.",
+  "corta": "Tipos de decisiones con base en las herramientas de contabilidad de…",
+  "url": "https://revistas.udea.edu.co/index.php/cont/article/view/336858",
+  "doi": "",
+  "tipo": "academico_udea",
+  "autor_udea": "Publicada en una revista de la Universidad de Antioquia",
+  "afirma": "El estudio busca identificar los tipos de decisiones que toman con herramientas de contabilidad de gestión las empresas de confección de La Ceja, Antioquia, para mejorar la gestión y la planeación estratégica. El resumen solo expone el objetivo; no reporta método ni resultados.",
+  "donde": "Resumen",
+  "leido": "abierta y leída",
+  "nivel": "lectura",
+  "frase": "El estudio busca identificar los tipos de decisiones que toman con herramientas de contabilidad de gestión las empresas de confección de La Ceja, Antioquia, para mejorar la gestión y la planeación estratégica. El resumen solo expone el objetivo; no reporta método ni resultados.",
+  "autores": "Atehortúa Castrillón, T., & Mejía Valencia, L. C.",
+  "anio": "2018"
+ },
+ {
+  "id": "LEC-005",
+  "tema": [
+   "contabilidad_costos",
+   "ciberseguridad_datos"
+  ],
+  "cita": "Rey, M. L., & Ruiz, M. del C. (2026). Riesgos de aseguramiento de la información contable: análisis en pymes de Villavicencio, Colombia. Contaduría Universidad de Antioquia, n.º 88, pp. 115-138.",
+  "corta": "Riesgos de aseguramiento de la información contable: análisis en pymes de…",
+  "url": "https://revistas.udea.edu.co/index.php/cont/article/view/357472",
+  "doi": "",
+  "tipo": "academico_udea",
+  "autor_udea": "Publicada en una revista de la Universidad de Antioquia",
+  "afirma": "Estudio cuantitativo, no experimental y descriptivo, con encuesta a 204 pymes de comercio y servicios de Villavicencio frente a las NIA vigentes en Colombia. Halla riesgos en la administración de recursos y en las acciones de los directivos, y que las empresas priorizan controles generales sobre los específicos, lo que favorece riesgos de fraude.",
+  "donde": "Resumen",
+  "leido": "abierta y leída",
+  "nivel": "lectura",
+  "frase": "Estudio cuantitativo, no experimental y descriptivo, con encuesta a 204 pymes de comercio y servicios de Villavicencio frente a las NIA vigentes en Colombia. Halla riesgos en la administración de recursos y en las acciones de los directivos, y que las empresas priorizan controles generales sobre los específicos, lo que favorece riesgos de fraude.",
+  "autores": "Rey, M. L., & Ruiz, M. del C.",
+  "anio": "2026"
+ },
+ {
+  "id": "LEC-007",
+  "tema": [
+   "contabilidad_costos"
+  ],
+  "cita": "Arias Suárez, J. D., & Cano Mejía, V. (2020). Contabilidad de gestión: implicaciones estratégicas en el desarrollo del sector industrial metalmecánico colombiano. Revista Venezolana de Gerencia, vol. 25, n.º 3, pp. 129-149.",
+  "corta": "Contabilidad de gestión: implicaciones estratégicas en el desarrollo del…",
+  "url": "https://produccioncientificaluz.org/index.php/rvg/article/view/33358",
+  "doi": "",
+  "tipo": "academico",
+  "autor_udea": "",
+  "afirma": "Con análisis dialéctico y encuestas a 60 gerentes de pymes metalmecánicas del Valle de Aburrá, halla vacíos analíticos en herramientas de control de gestión: los contadores dedican su tiempo a costeo, validación presupuestal y rentabilidad (91 % de las firmas), con poca atención al análisis estratégico y la inteligencia de negocios.",
+  "donde": "Resumen",
+  "leido": "abierta y leída",
+  "nivel": "lectura",
+  "frase": "Con análisis dialéctico y encuestas a 60 gerentes de pymes metalmecánicas del Valle de Aburrá, halla vacíos analíticos en herramientas de control de gestión: los contadores dedican su tiempo a costeo, validación presupuestal y rentabilidad (91 % de las firmas), con poca atención al análisis estratégico y la inteligencia de negocios.",
+  "autores": "Arias Suárez, J. D., & Cano Mejía, V.",
+  "anio": "2020"
+ },
+ {
+  "id": "LEC-008",
+  "tema": [
+   "financiamiento"
+  ],
+  "cita": "Saavedra García, M. L., & Bustamante Osorio, S. C. (2013). El problema de financiamiento de la PYME y el sistema nacional de garantías en Colombia. Contaduría Universidad de Antioquia, n.º 62, pp. 69-88.",
+  "corta": "El problema de financiamiento de la PYME y el sistema nacional",
+  "url": "https://revistas.udea.edu.co/index.php/cont/article/download/18912/16150/0",
+  "doi": "",
+  "tipo": "academico_udea",
+  "autor_udea": "Publicada en una revista de la Universidad de Antioquia",
+  "afirma": "Análisis documental de la evolución del Fondo Nacional de Garantías. Concluye que el sistema ha mejorado el acceso al crédito de las pymes pero su alcance es limitado (cerca de 17 % de las pymes del país); cita una evaluación de impacto con mayor crecimiento de producción (5,8 %) y empleo (4,6 %) en las beneficiarias.",
+  "donde": "Introducción y Conclusiones",
+  "leido": "abierta y leída",
+  "nivel": "lectura",
+  "frase": "Análisis documental de la evolución del Fondo Nacional de Garantías. Concluye que el sistema ha mejorado el acceso al crédito de las pymes pero su alcance es limitado (cerca de 17 % de las pymes del país); cita una evaluación de impacto con mayor crecimiento de producción (5,8 %) y empleo (4,6 %) en las beneficiarias.",
+  "autores": "Saavedra García, M. L., & Bustamante Osorio, S. C.",
+  "anio": "2013"
+ },
+ {
+  "id": "LEC-009",
+  "tema": [
+   "financiamiento"
+  ],
+  "cita": "Matíz B., F. J., & Fracica Naranjo, G. (2011). La financiación de nuevas empresas en Colombia: una mirada desde la demanda. Revista EAN, n.º 70 (alojada en SciELO Colombia).",
+  "corta": "La financiación de nuevas empresas en Colombia: una mirada desde la demanda",
+  "url": "http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0120-81602011000100010",
+  "doi": "",
+  "tipo": "academico",
+  "autor_udea": "",
+  "afirma": "Estudio exploratorio cuantitativo con encuesta a emprendedores potenciales de Bogotá, Medellín y Cali: 81 % dice no tener el capital necesario y 67 % planea recurrir a financiación bancaria. Concluye que casi no existe una cadena de financiación adecuada para empresas nuevas y que el crédito bancario llena ese vacío con productos no especializados.",
+  "donde": "Resumen y Conclusiones",
+  "leido": "abierta y leída",
+  "nivel": "lectura",
+  "frase": "Estudio exploratorio cuantitativo con encuesta a emprendedores potenciales de Bogotá, Medellín y Cali: 81 % dice no tener el capital necesario y 67 % planea recurrir a financiación bancaria. Concluye que casi no existe una cadena de financiación adecuada para empresas nuevas y que el crédito bancario llena ese vacío con productos no especializados.",
+  "autores": "Matíz B., F. J., & Fracica Naranjo, G.",
+  "anio": "2011"
+ },
+ {
+  "id": "LEC-010",
+  "tema": [
+   "financiamiento",
+   "liquidez"
+  ],
+  "cita": "Torres-Castro, F. A., Calderón-Diaz, M. A., & Melgarejo-Molina, Z. A. (2025). Costo de capital y rentabilidad de los activos de las micro, pequeñas y medianas empresas comerciales (MIPYMES) en Bogotá (título en inglés en la versión leída: Cost of Capital and Return on Assets of Commercial MSMEs in Bogotá). Revista UIS Ingenierías, vol. 24, n.º 1, pp. 21-36.",
+  "corta": "Costo de capital y rentabilidad de los activos de las micro, pequeñas y…",
+  "url": "https://revistas.uis.edu.co/index.php/revistauisingenierias/article/download/15821/13845/110869",
+  "doi": "",
+  "tipo": "academico",
+  "autor_udea": "",
+  "afirma": "Estudio cuantitativo, documental y descriptivo de 362 mipymes comerciales de Bogotá (2011-2021): el costo de capital promedio fue 11,6 % y la rentabilidad del activo 7,8 %, y esta superó al costo de capital solo en 2021.",
+  "donde": "Resumen y Conclusiones",
+  "leido": "abierta y leída",
+  "nivel": "lectura",
+  "frase": "Estudio cuantitativo, documental y descriptivo de 362 mipymes comerciales de Bogotá (2011-2021): el costo de capital promedio fue 11,6 % y la rentabilidad del activo 7,8 %, y esta superó al costo de capital solo en 2021.",
+  "autores": "Torres-Castro, F. A., Calderón-Diaz, M. A., & Melgarejo-Molina, Z. A.",
+  "anio": "2025"
+ },
+ {
+  "id": "LEC-011",
+  "tema": [
+   "financiamiento"
+  ],
+  "cita": "Logreira-Vargas, C., Hernández-Fernández, L., Bonett-Brieva, M., & Sandoval-Herrera, J. (2018). Microempresas en Barranquilla: una mirada desde el financiamiento privado. Revista Venezolana de Gerencia, vol. 23, n.º 82, pp. 358-376.",
+  "corta": "Microempresas en Barranquilla: una mirada desde el financiamiento privado",
+  "url": "https://www.redalyc.org/journal/290/29056115007/html/",
+  "doi": "",
+  "tipo": "academico",
+  "autor_udea": "",
+  "afirma": "Encuesta a 200 microempresas textiles y de confección de Barranquilla: dependen de crédito de proveedores y bancos, la autofinanciación es la fuente dominante (81,5 %), y las principales barreras son el costo del financiamiento (44 %) y el desconocimiento de fuentes (21 %).",
+  "donde": "Resultados y Conclusiones",
+  "leido": "abierta y leída",
+  "nivel": "lectura",
+  "frase": "Encuesta a 200 microempresas textiles y de confección de Barranquilla: dependen de crédito de proveedores y bancos, la autofinanciación es la fuente dominante (81,5 %), y las principales barreras son el costo del financiamiento (44 %) y el desconocimiento de fuentes (21 %).",
+  "autores": "Logreira-Vargas, C., Hernández-Fernández, L., Bonett-Brieva, M., & Sandoval-Herrera, J.",
+  "anio": "2018"
+ },
+ {
+  "id": "LEC-012",
+  "tema": [
+   "ecommerce"
+  ],
+  "cita": "Tavera Mesías, J. F., Sánchez Giraldo, J. C., & Ballesteros Díaz, B. (2011). Aceptación del e-commerce en Colombia: un estudio para la ciudad de Medellín. Revista Facultad de Ciencias Económicas: Investigación y Reflexión, vol. XIX, n.º 2, pp. 9-23.",
+  "corta": "E-commerce acceptance in Colombia: a study for Medellín city",
+  "url": "https://www.redalyc.org/pdf/909/90922735001.pdf",
+  "doi": "",
+  "tipo": "academico",
+  "autor_udea": "",
+  "afirma": "Extiende el modelo TAM con confianza y seguridad percibida y lo prueba con 497 usuarios de internet de Medellín. Concluye que la confianza es el principal antecedente de la intención de uso del e-commerce.",
+  "donde": "Resumen y Conclusiones",
+  "leido": "abierta y leída",
+  "nivel": "lectura",
+  "frase": "Extiende el modelo TAM con confianza y seguridad percibida y lo prueba con 497 usuarios de internet de Medellín. Concluye que la confianza es el principal antecedente de la intención de uso del e-commerce.",
+  "autores": "Tavera Mesías, J. F., Sánchez Giraldo, J. C., & Ballesteros Díaz, B.",
+  "anio": "2011"
+ },
+ {
+  "id": "LEC-013",
+  "tema": [
+   "ecommerce"
+  ],
+  "cita": "Corrales-Liévano, J. D., & Camargo Mayorga, D. A. (2025). Barreras para la adopción del comercio electrónico en empresas colombianas: un análisis factorial exploratorio. Revista En-Contexto, vol. 13, n.º 23, pp. 77-95.",
+  "corta": "Barreras para la adopción del comercio electrónico en empresas…",
+  "url": "https://ojs.tdea.edu.co/index.php/encontexto/article/view/1624",
+  "doi": "",
+  "tipo": "academico",
+  "autor_udea": "",
+  "afirma": "Encuesta en línea a 375 empresas colombianas sobre 13 variables; el análisis factorial exploratorio las agrupa en barreras internas, externas y de rechazo del comercio electrónico, categoría que los autores señalan como no explorada antes.",
+  "donde": "Resumen",
+  "leido": "abierta y leída",
+  "nivel": "lectura",
+  "frase": "Encuesta en línea a 375 empresas colombianas sobre 13 variables; el análisis factorial exploratorio las agrupa en barreras internas, externas y de rechazo del comercio electrónico, categoría que los autores señalan como no explorada antes.",
+  "autores": "Corrales-Liévano, J. D., & Camargo Mayorga, D. A.",
+  "anio": "2025"
+ },
+ {
+  "id": "LEC-015",
+  "tema": [
+   "ecommerce",
+   "pagos",
+   "marketing_digital"
+  ],
+  "cita": "Riaño-Solano, M., Rodríguez-Romero, R. E., & Celis-Moreno, E. A. (2024). Marketing digital y E-commerce para pymes en Colombia: seguridad y facilidad de transacciones móviles. AiBi Revista de Investigación, Administración e Ingeniería, vol. 12, n.º 2, pp. 10-17.",
+  "corta": "Marketing digital y E-commerce para pymes en Colombia: seguridad y…",
+  "url": "https://revistas.udes.edu.co/aibi/article/view/3255",
+  "doi": "",
+  "tipo": "academico",
+  "autor_udea": "",
+  "afirma": "Mediante talleres presenciales con 18 emprendedores, halla que 88 % considera fundamental la capacitación en marketing digital y comercio electrónico y que la falta de conocimientos es una barrera de crecimiento. Señala tecnologías como blockchain y biometría para mejorar la seguridad de las transacciones móviles.",
+  "donde": "Resumen",
+  "leido": "abierta y leída",
+  "nivel": "lectura",
+  "frase": "Mediante talleres presenciales con 18 emprendedores, halla que 88 % considera fundamental la capacitación en marketing digital y comercio electrónico y que la falta de conocimientos es una barrera de crecimiento. Señala tecnologías como blockchain y biometría para mejorar la seguridad de las transacciones móviles.",
+  "autores": "Riaño-Solano, M., Rodríguez-Romero, R. E., & Celis-Moreno, E. A.",
+  "anio": "2024"
+ },
+ {
+  "id": "LEC-016",
+  "tema": [
+   "ecommerce"
+  ],
+  "cita": "Forero Gutiérrez, D. P. (2023). Determinación de factores que inciden en la adopción del comercio electrónico por parte de microempresarios de moda en la ciudad de Bogotá. Tesis de Maestría en Administración, Universidad Nacional de Colombia, Sede Bogotá.",
+  "corta": "Determinación de factores que inciden en la adopción del comercio…",
+  "url": "https://redcol.minciencias.gov.co/Record/UNACIONAL2_e0c78cefe0eca1dcd01f0e9791135b85/Details",
+  "doi": "",
+  "tipo": "academico",
+  "autor_udea": "",
+  "afirma": "Con el marco TOE y una encuesta a 167 microempresarios de moda de Bogotá (análisis factorial exploratorio y confirmatorio), identifica ocho dimensiones asociadas a la adopción: compatibilidad, costo percibido, ventaja relativa, conocimiento de TI, disposición organizacional, interés de la gerencia, apoyo del gobierno y presión de agentes externos.",
+  "donde": "Resumen",
+  "leido": "abierta y leída",
+  "nivel": "lectura",
+  "frase": "Con el marco TOE y una encuesta a 167 microempresarios de moda de Bogotá (análisis factorial exploratorio y confirmatorio), identifica ocho dimensiones asociadas a la adopción: compatibilidad, costo percibido, ventaja relativa, conocimiento de TI, disposición organizacional, interés de la gerencia, apoyo del gobierno y presión de agentes externos.",
+  "autores": "Forero Gutiérrez, D. P.",
+  "anio": "2023"
+ },
+ {
+  "id": "LEC-017",
+  "tema": [
+   "ecommerce"
+  ],
+  "cita": "Maita Guédez, M. (2019). La adopción del comercio electrónico en las PyMEs. Revista Gestión y Desarrollo Libre (Universidad Libre), año 4, n.º 8.",
+  "corta": "La adopción del comercio electrónico en las PyMEs",
+  "url": "https://revistas.unilibre.edu.co/index.php/gestion_libre/article/download/8120/9521",
+  "doi": "",
+  "tipo": "academico",
+  "autor_udea": "",
+  "afirma": "Revisión documental según la cual los factores que llevan a las PyMEs a adoptar comercio electrónico (organizacionales, de disposición, presión del entorno, facilidad de uso, beneficios percibidos, confianza) dependen del contexto, y no hay una receta única. Concluye que el comercio electrónico por sí solo no genera beneficios: el valor depende de una gestión que integre la tecnología en la organización.",
+  "donde": "Resumen y Conclusiones",
+  "leido": "abierta y leída",
+  "nivel": "lectura",
+  "frase": "Revisión documental según la cual los factores que llevan a las PyMEs a adoptar comercio electrónico (organizacionales, de disposición, presión del entorno, facilidad de uso, beneficios percibidos, confianza) dependen del contexto, y no hay una receta única. Concluye que el comercio electrónico por sí solo no genera beneficios: el valor depende de una gestión que integre la tecnología en la organización.",
+  "autores": "Maita Guédez, M.",
+  "anio": "2019"
+ },
+ {
+  "id": "LEC-018",
+  "tema": [
+   "marketing_digital"
+  ],
+  "cita": "Guisado Gómez, S., Bermeo-Giraldo, M. C., Valencia Arias, A. (2021). Factores determinantes para la adopción del marketing digital en pymes: un estudio exploratorio. Semestre Económico (Universidad de Medellín), vol. 24, n.º 57.",
+  "corta": "Factores determinantes para la adopción del marketing digital en pymes: un…",
+  "url": "http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0120-63462021000200217",
+  "doi": "",
+  "tipo": "academico",
+  "autor_udea": "",
+  "afirma": "Encuesta de 24 preguntas a 120 pymes industriales y de servicios de Medellín (muestreo por conveniencia, análisis descriptivo). Identifica cuatro factores asociados a la aceptación del marketing digital: ventajas percibidas, aceptación como canal de comunicación con el cliente, razones de uso y experiencia de usuario percibida; las pymes usan sobre todo redes sociales y correo electrónico.",
+  "donde": "Resumen, Resultados y Conclusiones",
+  "leido": "abierta y leída",
+  "nivel": "lectura",
+  "frase": "Encuesta de 24 preguntas a 120 pymes industriales y de servicios de Medellín (muestreo por conveniencia, análisis descriptivo). Identifica cuatro factores asociados a la aceptación del marketing digital: ventajas percibidas, aceptación como canal de comunicación con el cliente, razones de uso y experiencia de usuario percibida; las pymes usan sobre todo redes sociales y correo electrónico.",
+  "autores": "Guisado Gómez, S., Bermeo-Giraldo, M. C., Valencia Arias, A.",
+  "anio": "2021"
+ },
+ {
+  "id": "LEC-019",
+  "tema": [
+   "marketing_digital"
+  ],
+  "cita": "Bermeo Giraldo, M. C., Rendon Londoño, L. M., Ospina Londoño, Y., Palacio Pareja, M., Arcila Acosta, C. A. (2022). Factores perceptuales del uso del marketing digital en pequeñas y medianas empresas. Cuadernos Latinoamericanos de Administración, 18(35).",
+  "corta": "Factores perceptuales del uso del marketing digital en pequeñas y medianas…",
+  "url": "https://revistas.unbosque.edu.co/index.php/cuaderlam/article/view/marketing_digital",
+  "doi": "",
+  "tipo": "academico",
+  "autor_udea": "",
+  "afirma": "Con teoría fundamentada y nueve entrevistas semiestructuradas a responsables de marketing en pymes de servicios y manufactura de Medellín, encuentra que las empresas usan Internet sobre todo como herramienta de comunicación. Concluye que los factores más influyentes son los de uso, la motivación, las estrategias y canales, y las ventajas de estas herramientas.",
+  "donde": "Resumen",
+  "leido": "abierta y leída",
+  "nivel": "lectura",
+  "frase": "Con teoría fundamentada y nueve entrevistas semiestructuradas a responsables de marketing en pymes de servicios y manufactura de Medellín, encuentra que las empresas usan Internet sobre todo como herramienta de comunicación. Concluye que los factores más influyentes son los de uso, la motivación, las estrategias y canales, y las ventajas de estas herramientas.",
+  "autores": "Bermeo Giraldo, M. C., Rendon Londoño, L. M., Ospina Londoño, Y., Palacio Pareja, M., Arcila Acosta, C. A.",
+  "anio": "2022"
+ },
+ {
+  "id": "LEC-020",
+  "tema": [
+   "marketing_digital"
+  ],
+  "cita": "Cancino-Gómez, Y. A., Mora Pinzón, R. J., Marín Ayala, D. A. (2024). Implementación Del Marketing Digital en las Pymes Colombianas en Momentos de Crisis. Ciencia Latina Revista Científica Multidisciplinar, vol. 8, n.º 3.",
+  "corta": "Implementación del marketing digital en las pymes colombianas en momentos…",
+  "url": "https://ciencialatina.org/index.php/cienciala/article/view/11258",
+  "doi": "",
+  "tipo": "academico",
+  "autor_udea": "",
+  "afirma": "Encuesta a 332 empresarios de Bogotá y análisis factorial exploratorio para tipificar pymes según el impacto del confinamiento y la adopción de canales digitales; caracteriza cuatro grupos. Las empresas que habían adoptado algo de marketing digital reportaron menor efecto del confinamiento.",
+  "donde": "Resumen",
+  "leido": "abierta y leída",
+  "nivel": "lectura",
+  "frase": "Encuesta a 332 empresarios de Bogotá y análisis factorial exploratorio para tipificar pymes según el impacto del confinamiento y la adopción de canales digitales; caracteriza cuatro grupos. Las empresas que habían adoptado algo de marketing digital reportaron menor efecto del confinamiento.",
+  "autores": "Cancino-Gómez, Y. A., Mora Pinzón, R. J., Marín Ayala, D. A.",
+  "anio": "2024"
+ },
+ {
+  "id": "LEC-021",
+  "tema": [
+   "marketing_digital"
+  ],
+  "cita": "Castro Medina, J. J., Buelvas Gutiérrez, E. D., Jaimes Ortega, A. A. (2026). Content marketing en redes sociales para aumentar ventas en mipymes de Colombia y Latinoamérica: revisión bibliográfica. Formación Estratégica, vol. 7, n.º 2.",
+  "corta": "Content marketing en redes sociales para aumentar ventas en mipymes de…",
+  "url": "https://formacionestrategica.com/index.php/foes/article/view/263",
+  "doi": "",
+  "tipo": "academico",
+  "autor_udea": "",
+  "afirma": "Revisión integrativa (protocolo SALSA) que organiza la literatura en seis categorías y sostiene que la presencia digital por sí sola no garantiza más ventas: el impacto depende de conectar el contenido con segmentación, propuesta de valor, llamados a la acción, servicio y medición de conversión. Concluye que el content marketing ayuda al desempeño comercial cuando es una estrategia planificada y no una práctica intuitiva.",
+  "donde": "Resumen",
+  "leido": "abierta y leída",
+  "nivel": "lectura",
+  "frase": "Revisión integrativa (protocolo SALSA) que organiza la literatura en seis categorías y sostiene que la presencia digital por sí sola no garantiza más ventas: el impacto depende de conectar el contenido con segmentación, propuesta de valor, llamados a la acción, servicio y medición de conversión. Concluye que el content marketing ayuda al desempeño comercial cuando es una estrategia planificada y no una práctica intuitiva.",
+  "autores": "Castro Medina, J. J., Buelvas Gutiérrez, E. D., Jaimes Ortega, A. A.",
+  "anio": "2026"
+ },
+ {
+  "id": "LEC-023",
+  "tema": [
+   "transformacion_digital"
+  ],
+  "cita": "Vásquez Hernández, L. A., Díaz Álzate, J. C., Betancur Aricapa, Y. S., Reyes Rojas, G. E. (2023). Transformación Digital un Reto para las Pymes: Articulación de TIC -Tecnología de la Información- en las Pequeñas Empresas (Pymes) del Sector Manufacturero de Risaralda. Ciencia Latina Revista Científica Multidisciplinar, vol. 7, n.º 5.",
+  "corta": "Transformación digital, un reto para las pymes: articulación de TIC en las…",
+  "url": "https://ciencialatina.org/index.php/cienciala/article/view/8128",
+  "doi": "",
+  "tipo": "academico",
+  "autor_udea": "",
+  "afirma": "Combina revisión de literatura y una encuesta a 30 empresarios de los sectores metalmecánico y alimentos de Risaralda (cuestionario adaptado de una encuesta de la ANDI de 2019) para identificar los obstáculos de las pymes ante la transformación digital. Señala las competencias que necesitan y revisa soluciones tecnológicas adecuadas a esos sectores.",
+  "donde": "Resumen",
+  "leido": "abierta y leída",
+  "nivel": "lectura",
+  "frase": "Combina revisión de literatura y una encuesta a 30 empresarios de los sectores metalmecánico y alimentos de Risaralda (cuestionario adaptado de una encuesta de la ANDI de 2019) para identificar los obstáculos de las pymes ante la transformación digital. Señala las competencias que necesitan y revisa soluciones tecnológicas adecuadas a esos sectores.",
+  "autores": "Vásquez Hernández, L. A., Díaz Álzate, J. C., Betancur Aricapa, Y. S., Reyes Rojas, G. E.",
+  "anio": "2023"
+ },
+ {
+  "id": "LEC-027",
+  "tema": [
+   "madurez",
+   "procesos"
+  ],
+  "cita": "Pérez-Mergarejo, E., Pérez-Vergara, I., Rodríguez-Ruíz, Y. (2014). Modelos de madurez y su idoneidad para aplicar en pequeñas y medianas empresas. Registro de la Universidad Pontificia Bolivariana (vol. 35, n.º 2, pp. 146-158); el registro no nombra la revista.",
+  "corta": "Modelos de madurez y su idoneidad para aplicar en pequeñas y medianas empresas",
+  "url": "https://investigacion.upb.edu.co/es/publications/modelos-de-madurez-y-su-idoneidad-para-aplicar-en-peque%C3%B1as-y-medi/",
+  "doi": "",
+  "tipo": "academico",
+  "autor_udea": "",
+  "afirma": "A partir de una revisión de modelos de madurez reconocidos, busca dar recomendaciones aplicables por las PYMEs. Plantea que estos modelos nacieron en la industria del software y hoy se usan en muchos campos, pero a las PYMEs les cuesta adoptarlos por su desorganización y la falta de personal calificado y certificado.",
+  "donde": "Resumen",
+  "leido": "abierta y leída",
+  "nivel": "lectura",
+  "frase": "A partir de una revisión de modelos de madurez reconocidos, busca dar recomendaciones aplicables por las PYMEs. Plantea que estos modelos nacieron en la industria del software y hoy se usan en muchos campos, pero a las PYMEs les cuesta adoptarlos por su desorganización y la falta de personal calificado y certificado.",
+  "autores": "Pérez-Mergarejo, E., Pérez-Vergara, I., Rodríguez-Ruíz, Y.",
+  "anio": "2014"
+ },
+ {
+  "id": "LEC-028",
+  "tema": [
+   "madurez",
+   "transformacion_digital"
+  ],
+  "cita": "Sarmiento Suárez, J. E., Gutiérrez Navas, E. B., Ramírez Montañez, J. C. (2024). Oportunidades y desafíos para la digitalización de las mipymes en Colombia. Pensamiento & Gestión (Universidad del Norte), n.º 57, pp. 128-154.",
+  "corta": "Oportunidades y desafíos para la digitalización de las mipymes en Colombia",
+  "url": "https://rcientificas.uninorte.edu.co/index.php/pensamiento/article/download/16513/214421447635/214421478543",
+  "doi": "",
+  "tipo": "academico",
+  "autor_udea": "",
+  "afirma": "Con una encuesta a directivos de 3.708 mipymes colombianas (trabajo de campo feb-may 2022), halla madurez digital baja: 2,32 sobre 5 en tecnologías básicas y 1,75 en avanzadas. Las medianas superan a las micro y pequeñas, el sector servicios lidera, y las barreras principales son la banda ancha insuficiente, los costos de inversión y la falta de recursos financieros; recomiendan políticas públicas de apoyo.",
+  "donde": "Resumen, Resultados y Conclusiones",
+  "leido": "abierta y leída",
+  "nivel": "lectura",
+  "frase": "Con una encuesta a directivos de 3.708 mipymes colombianas (trabajo de campo feb-may 2022), halla madurez digital baja: 2,32 sobre 5 en tecnologías básicas y 1,75 en avanzadas. Las medianas superan a las micro y pequeñas, el sector servicios lidera, y las barreras principales son la banda ancha insuficiente, los costos de inversión y la falta de recursos financieros; recomiendan políticas públicas de apoyo.",
+  "autores": "Sarmiento Suárez, J. E., Gutiérrez Navas, E. B., Ramírez Montañez, J. C.",
+  "anio": "2024"
+ },
+ {
+  "id": "LEC-029",
+  "tema": [
+   "madurez"
+  ],
+  "cita": "Zorro Galindo, E. (2019). Modelos de madurez digital en pymes – Caso de estudio de una pyme de telecomunicaciones de Colombia. Universidad Nacional de Colombia, Facultad de Ingeniería (trabajo final de maestría en Telecomunicaciones).",
+  "corta": "Modelos de madurez digital en pymes",
+  "url": "https://bffrepositorio.unal.edu.co/server/api/core/bitstreams/acac078c-93c8-4544-9c67-3580644f256e/content",
+  "doi": "",
+  "tipo": "academico",
+  "autor_udea": "",
+  "afirma": "Sostiene que los modelos de madurez digital existentes están pensados para grandes organizaciones y que la transformación digital exige desarrollar capacidades en varias dimensiones, no solo adoptar tecnología. Con revisión sistemática (61 documentos leídos completos) y un estudio de caso único de una pyme de telecomunicaciones, propone un modelo descriptivo de seis dimensiones y cinco niveles de madurez.",
+  "donde": "Resumen e Introducción",
+  "leido": "abierta y leída",
+  "nivel": "lectura",
+  "frase": "Sostiene que los modelos de madurez digital existentes están pensados para grandes organizaciones y que la transformación digital exige desarrollar capacidades en varias dimensiones, no solo adoptar tecnología. Con revisión sistemática (61 documentos leídos completos) y un estudio de caso único de una pyme de telecomunicaciones, propone un modelo descriptivo de seis dimensiones y cinco niveles de madurez.",
+  "autores": "Zorro Galindo, E.",
+  "anio": "2019"
+ },
+ {
+  "id": "LEC-030",
+  "tema": [
+   "transformacion_digital",
+   "innovacion"
+  ],
+  "cita": "Morales Pulido, M. I. (2025). La innovación desde la transformación digital en las PYMEs. European Public & Social Innovation Review, vol. 10, pp. 1-15.",
+  "corta": "La innovación desde la transformación digital en las PYMEs",
+  "url": "https://epsir.net/index.php/epsir/article/download/1138/1225/8366",
+  "doi": "",
+  "tipo": "academico",
+  "autor_udea": "",
+  "afirma": "Informe parcial de una investigación doctoral: encuesta de percepción a 54 colaboradores técnicos de una pyme mexicana de seguridad digital. Reporta percepciones mayoritariamente favorables sobre eficiencia, calidad del servicio y posición competitiva, pero solo 65 % se sintió motivado a participar en el cambio, lo que la autora interpreta como resistencia; concluye que la tecnología aporta valor si se acompaña de visión estratégica, capacitación y cultura de adaptación.",
+  "donde": "Resumen, Resultados y Conclusiones",
+  "leido": "abierta y leída",
+  "nivel": "lectura",
+  "frase": "Informe parcial de una investigación doctoral: encuesta de percepción a 54 colaboradores técnicos de una pyme mexicana de seguridad digital. Reporta percepciones mayoritariamente favorables sobre eficiencia, calidad del servicio y posición competitiva, pero solo 65 % se sintió motivado a participar en el cambio, lo que la autora interpreta como resistencia; concluye que la tecnología aporta valor si se acompaña de visión estratégica, capacitación y cultura de adaptación.",
+  "autores": "Morales Pulido, M. I.",
+  "anio": "2025"
+ },
+ {
+  "id": "LEC-031",
+  "tema": [
+   "transformacion_digital",
+   "capacitacion"
+  ],
+  "cita": "Cámara Colombiana de Comercio Electrónico (CCCE), sin autor individual (2023). Hacia la transformación digital de las MiPymes en Colombia. Cámara Colombiana de Comercio Electrónico, blog de economía digital.",
+  "corta": "Hacia la transformación digital de las MiPymes en Colombia",
+  "url": "https://ccce.org.co/noticias/hacia-la-transformacion-digital-de-las-mipymes-en-colombia/",
+  "doi": "",
+  "tipo": "institucional",
+  "autor_udea": "",
+  "afirma": "Entrada de blog institucional que, citando cifras de ANIF y ACOPI, señala que cerca del 45 % de las mipymes invierte en transformación digital y el 55 % no ha empezado, con las microempresas rezagadas en sitio web y ventas en línea. Sostiene que la transformación digital debe ser prioridad de política pública y presenta el programa 'Ya Estoy Online'.",
+  "donde": "Cuerpo del texto",
+  "leido": "abierta y leída",
+  "nivel": "lectura",
+  "frase": "Entrada de blog institucional que, citando cifras de ANIF y ACOPI, señala que cerca del 45 % de las mipymes invierte en transformación digital y el 55 % no ha empezado, con las microempresas rezagadas en sitio web y ventas en línea. Sostiene que la transformación digital debe ser prioridad de política pública y presenta el programa 'Ya Estoy Online'.",
+  "autores": "Cámara Colombiana de Comercio Electrónico (CCCE), sin autor individual",
+  "anio": "2023"
+ },
+ {
+  "id": "LEC-032",
+  "tema": [
+   "datos_decisiones"
+  ],
+  "cita": "Pinto Martínez, M. A., Monsalve Castro, C. (2020). Modelos de toma de decisiones en las micro, pequeñas y medianas empresas del contexto colombiano: una revisión documental entre 2010 y 2015. Gestión y Desarrollo Libre (Universidad Libre), vol. 5, n.º 10.",
+  "corta": "Modelos de toma de decisiones en las micro, pequeñas y medianas empresas…",
+  "url": "https://revistas.unilibre.edu.co/index.php/gestion_libre/article/view/8097",
+  "doi": "",
+  "tipo": "academico",
+  "autor_udea": "",
+  "afirma": "Revisión sistemática cualitativa de artículos de 2010 a 2015 que concluye que los modelos de decisión en las mipymes colombianas son dinámicos y pragmáticos, combinan varios enfoques teóricos y dependen de la información, el conocimiento y la experiencia del decisor. Las autoras la presentan como una primera aproximación por la escasez de artículos relevantes.",
+  "donde": "Resumen",
+  "leido": "abierta y leída",
+  "nivel": "lectura",
+  "frase": "Revisión sistemática cualitativa de artículos de 2010 a 2015 que concluye que los modelos de decisión en las mipymes colombianas son dinámicos y pragmáticos, combinan varios enfoques teóricos y dependen de la información, el conocimiento y la experiencia del decisor. Las autoras la presentan como una primera aproximación por la escasez de artículos relevantes.",
+  "autores": "Pinto Martínez, M. A., Monsalve Castro, C.",
+  "anio": "2020"
+ },
+ {
+  "id": "LEC-033",
+  "tema": [
+   "datos_decisiones"
+  ],
+  "cita": "Beltrán Olarte, N. Y. (2024). Comprendiendo el papel de los procesos de inteligencia de negocios en pymes colombianas: un estudio fenomenológico. Gestión Ingenio y Sociedad (Fundación Universitaria Cafam), pp. 52-57.",
+  "corta": "Comprendiendo el papel de los procesos de inteligencia de negocios en…",
+  "url": "http://gis.unicafam.edu.co/index.php/gis/article/view/148",
+  "doi": "",
+  "tipo": "academico",
+  "autor_udea": "",
+  "afirma": "Estudio cualitativo fenomenológico con entrevistas a expertos que concluye que la inteligencia de negocios ayuda a las pymes a entender su negocio y decidir con información, apoyando la competitividad. Señala que aún no es accesible para las pymes colombianas porque requiere personal capacitado, fuerte inversión en software y paso a operaciones digitales.",
+  "donde": "Resumen",
+  "leido": "abierta y leída",
+  "nivel": "lectura",
+  "frase": "Estudio cualitativo fenomenológico con entrevistas a expertos que concluye que la inteligencia de negocios ayuda a las pymes a entender su negocio y decidir con información, apoyando la competitividad. Señala que aún no es accesible para las pymes colombianas porque requiere personal capacitado, fuerte inversión en software y paso a operaciones digitales.",
+  "autores": "Beltrán Olarte, N. Y.",
+  "anio": "2024"
+ },
+ {
+  "id": "LEC-034",
+  "tema": [
+   "datos_decisiones"
+  ],
+  "cita": "Londoño-Patiño, J. A. (2020). Toma de decisiones basada en la productividad en Pymes manufactureras: aproximación desde la Lógica Difusa. Revista CEA (Instituto Tecnológico Metropolitano), vol. 6, n.º 12, pp. 181-207.",
+  "corta": "Toma de decisiones basada en la productividad en pymes manufactureras:…",
+  "url": "https://www.redalyc.org/journal/6381/638167728011/",
+  "doi": "",
+  "tipo": "academico",
+  "autor_udea": "",
+  "afirma": "Aplica lógica difusa y el índice de productividad total de los factores a seis pymes manufactureras de Medellín (datos 2016-2017). Encuentra que cerca de la mitad requeriría planes permanentes de mejora, que el ciclo financiero y el margen EBITDA son lo que más afecta negativamente el índice, y concluye que el método da certidumbre a la toma de decisiones.",
+  "donde": "Resumen",
+  "leido": "abierta y leída",
+  "nivel": "lectura",
+  "frase": "Aplica lógica difusa y el índice de productividad total de los factores a seis pymes manufactureras de Medellín (datos 2016-2017). Encuentra que cerca de la mitad requeriría planes permanentes de mejora, que el ciclo financiero y el margen EBITDA son lo que más afecta negativamente el índice, y concluye que el método da certidumbre a la toma de decisiones.",
+  "autores": "Londoño-Patiño, J. A.",
+  "anio": "2020"
+ },
+ {
+  "id": "LEC-037",
+  "tema": [
+   "ia"
+  ],
+  "cita": "Hoja de ruta para la adopción ética y sostenible de la inteligencia artificial en Colombia. Ministerio de Ciencia, Tecnología e Innovación.",
+  "corta": "Hoja de ruta para la adopción ética y sostenible de la inteligencia…",
+  "url": "https://inteligenciaartificial.minciencias.gov.co/wp-content/uploads/2024/02/Hoja-de-Ruta-Adopcion-Etica-y-Sostenible-de-Inteligencia-Artificial-Colombia-1.pdf",
+  "doi": "",
+  "tipo": "institucional",
+  "autor_udea": "",
+  "afirma": "Plantea que la adopción de IA es una oportunidad estratégica para la productividad y la innovación, pero debe guiarse por criterios éticos y de sostenibilidad. Reporta que cerca del 9% de más de 8.500 empresas de la encuesta Pulso Empresarial 2022 del DANE había adoptado IA, con los costos de adquisición y la falta de experiencia como principales barreras.",
+  "donde": "Introducción y Línea Base",
+  "leido": "abierta y leída",
+  "nivel": "lectura",
+  "frase": "Plantea que la adopción de IA es una oportunidad estratégica para la productividad y la innovación, pero debe guiarse por criterios éticos y de sostenibilidad. Reporta que cerca del 9% de más de 8.500 empresas de la encuesta Pulso Empresarial 2022 del DANE había adoptado IA, con los costos de adquisición y la falta de experiencia como principales barreras.",
+  "autores": "Ministerio de Ciencia, Tecnología e Innovación (Minciencias)",
+  "anio": ""
+ },
+ {
+  "id": "LEC-040",
+  "tema": [
+   "ciberseguridad_datos"
+  ],
+  "cita": "Cámara de Comercio de Bogotá (CCB) (2023). Nueva Guía de Ciberseguridad para pymes para fortalecer nuestro portafolio de soluciones. Cámara de Comercio de Bogotá (comunicado).",
+  "corta": "Guía de Ciberseguridad para pymes",
+  "url": "https://www.ccb.org.co/es/de-interes/comunicados/la-ccb-lanza-guia-de-ciberseguridad-para-pymes",
+  "doi": "",
+  "tipo": "institucional",
+  "autor_udea": "",
+  "afirma": "La CCB presenta una guía de ciberseguridad de fácil aplicación para que las pymes protejan su información y sus operaciones en línea, incluyendo cuentas en redes sociales y cumplimiento de la Ley de Protección de Datos Personales. Cita 26.366 denuncias por hurto por medios informáticos en el último año y un aumento del 175% entre 2019 y 2022.",
+  "donde": "Cuerpo del comunicado (20 de septiembre de 2023)",
+  "leido": "abierta y leída",
+  "nivel": "lectura",
+  "frase": "La CCB presenta una guía de ciberseguridad de fácil aplicación para que las pymes protejan su información y sus operaciones en línea, incluyendo cuentas en redes sociales y cumplimiento de la Ley de Protección de Datos Personales. Cita 26.366 denuncias por hurto por medios informáticos en el último año y un aumento del 175% entre 2019 y 2022.",
+  "autores": "Cámara de Comercio de Bogotá (CCB)",
+  "anio": "2023"
+ },
+ {
+  "id": "LEC-041",
+  "tema": [
+   "ciberseguridad_datos"
+  ],
+  "cita": "Lucio-Vásquez, E. M.; Campaña-Ortega, E. M. (2024). Desafíos y estrategias de ciberseguridad para pequeñas empresas. Gestio et Productio. Revista Electrónica de Ciencias Gerenciales, 6(11), 18-36.",
+  "corta": "Desafíos y estrategias de ciberseguridad para pequeñas empresas",
+  "url": "https://iieakoinonia.org/ojs3/index.php/gestioep/article/view/151",
+  "doi": "",
+  "tipo": "academico",
+  "autor_udea": "",
+  "afirma": "Describe desafíos y estrategias de ciberseguridad para pequeñas empresas a partir de un caso (una ferretería en Ecuador), con enfoque cuantitativo exploratorio y revisión documental. Concluye que son fundamentales las actualizaciones periódicas de software y la inversión en soluciones de seguridad confiables, como antivirus con licencia.",
+  "donde": "Resumen y Conclusiones",
+  "leido": "abierta y leída",
+  "nivel": "lectura",
+  "frase": "Describe desafíos y estrategias de ciberseguridad para pequeñas empresas a partir de un caso (una ferretería en Ecuador), con enfoque cuantitativo exploratorio y revisión documental. Concluye que son fundamentales las actualizaciones periódicas de software y la inversión en soluciones de seguridad confiables, como antivirus con licencia.",
+  "autores": "Lucio-Vásquez, E. M.; Campaña-Ortega, E. M.",
+  "anio": "2024"
+ },
+ {
+  "id": "LEC-042",
+  "tema": [
+   "ciberseguridad_datos"
+  ],
+  "cita": "Cruz Hortua, E. T.; López Torres, D. H.; Herrera Ladino, J. A.; Martínez Jiménez, G. A. (2026). Seguridad de la información en emprendimientos digitales, un enfoque en la dinámica regional. Revista de la Universidad del Zulia, 17(48), 275-297.",
+  "corta": "Seguridad de la información en emprendimientos digitales, un enfoque en la…",
+  "url": "https://zenodo.org/records/18209618",
+  "doi": "",
+  "tipo": "academico",
+  "autor_udea": "",
+  "afirma": "Con una metodología descriptiva y exploratoria basada en encuestas a emprendedores de un municipio colombiano, encuentra que cerca del 13% de los negocios había sufrido un incidente de seguridad. Los emprendedores se preocupan por la inseguridad digital, pero las medidas de mitigación no están ampliamente adoptadas.",
+  "donde": "Resumen",
+  "leido": "abierta y leída",
+  "nivel": "lectura",
+  "frase": "Con una metodología descriptiva y exploratoria basada en encuestas a emprendedores de un municipio colombiano, encuentra que cerca del 13% de los negocios había sufrido un incidente de seguridad. Los emprendedores se preocupan por la inseguridad digital, pero las medidas de mitigación no están ampliamente adoptadas.",
+  "autores": "Cruz Hortua, E. T.; López Torres, D. H.; Herrera Ladino, J. A.; Martínez Jiménez, G. A.",
+  "anio": "2026"
+ },
+ {
+  "id": "LEC-043",
+  "tema": [
+   "ciberseguridad_datos"
+  ],
+  "cita": "Vasco Delgado, J. C.; Ruiz Muñoz, G. F.; Macas Padilla, B. A.; León Quiñónez, V. H. (2025). Ciberseguridad y protección de datos personales: desafíos y perspectivas. GADE: Revista Científica, 5(1), 675-688.",
+  "corta": "Ciberseguridad y protección de datos personales: desafíos y perspectivas",
+  "url": "https://revista.redgade.com/index.php/Gade/article/view/642",
+  "doi": "",
+  "tipo": "academico",
+  "autor_udea": "",
+  "afirma": "Revisión sistemática de 47 fuentes sobre América Latina: la mayoría de los países tiene leyes de protección de datos, en gran parte inspiradas en el GDPR, pero la implementación va rezagada. Proponen una estrategia de cuatro pilares (reguladores autónomos, armonización regional, incentivos tecnológicos para pymes y alfabetización digital).",
+  "donde": "Resumen",
+  "leido": "abierta y leída",
+  "nivel": "lectura",
+  "frase": "Revisión sistemática de 47 fuentes sobre América Latina: la mayoría de los países tiene leyes de protección de datos, en gran parte inspiradas en el GDPR, pero la implementación va rezagada. Proponen una estrategia de cuatro pilares (reguladores autónomos, armonización regional, incentivos tecnológicos para pymes y alfabetización digital).",
+  "autores": "Vasco Delgado, J. C.; Ruiz Muñoz, G. F.; Macas Padilla, B. A.; León Quiñónez, V. H.",
+  "anio": "2025"
+ },
+ {
+  "id": "LEC-045",
+  "tema": [
+   "liquidez"
+  ],
+  "cita": "López-Díaz, V. H.; Gómez-Chaves, M. A.; Patiño-Folleco, M. C.; Padilla-Ortiz, V. (2024). Relación entre las estructuras de capital de trabajo y la rentabilidad de pequeñas y medianas empresas del sector construcción de Colombia. Gestión y Desarrollo Libre, 9(18).",
+  "corta": "Relación entre las estructuras de capital de trabajo y la rentabilidad de…",
+  "url": "https://revistas.unilibre.edu.co/index.php/gestion_libre/article/view/11825",
+  "doi": "",
+  "tipo": "academico",
+  "autor_udea": "",
+  "afirma": "Con un diseño correlacional sobre estados financieros de 11.035 pymes de construcción (2016-2020), halla que la relación entre capital de trabajo y rentabilidad no fue estable en el periodo. Tres de seis medidas (capital de trabajo bruto, operativo y neto) se correlacionan positivamente con el margen antes de impuestos y el margen neto.",
+  "donde": "Resumen",
+  "leido": "abierta y leída",
+  "nivel": "lectura",
+  "frase": "Con un diseño correlacional sobre estados financieros de 11.035 pymes de construcción (2016-2020), halla que la relación entre capital de trabajo y rentabilidad no fue estable en el periodo. Tres de seis medidas (capital de trabajo bruto, operativo y neto) se correlacionan positivamente con el margen antes de impuestos y el margen neto.",
+  "autores": "López-Díaz, V. H.; Gómez-Chaves, M. A.; Patiño-Folleco, M. C.; Padilla-Ortiz, V.",
+  "anio": "2024"
+ },
+ {
+  "id": "LEC-046",
+  "tema": [
+   "liquidez"
+  ],
+  "cita": "Jaramillo Aguirre, S. (2016). Relación entre la gestión del capital de trabajo y la rentabilidad en la industria de distribución de químicos en Colombia. Revista Finanzas y Política Económica, 8(2), 327-347 (Universidad Católica de Colombia).",
+  "corta": "Relación entre la gestión del capital de trabajo y la rentabilidad en la…",
+  "url": "https://www.redalyc.org/pdf/3235/323547319006.pdf",
+  "doi": "",
+  "tipo": "academico",
+  "autor_udea": "",
+  "afirma": "Con 48 empresas del sector entre 2008 y 2014, halla una relación significativa entre la gestión del capital de trabajo y la rentabilidad: los días de cartera, de pago y el ciclo de conversión de efectivo muestran relaciones negativas y significativas con la rentabilidad. Concluye que los resultados dependen del sector y no deben generalizarse.",
+  "donde": "Resumen y Conclusiones",
+  "leido": "abierta y leída",
+  "nivel": "lectura",
+  "frase": "Con 48 empresas del sector entre 2008 y 2014, halla una relación significativa entre la gestión del capital de trabajo y la rentabilidad: los días de cartera, de pago y el ciclo de conversión de efectivo muestran relaciones negativas y significativas con la rentabilidad. Concluye que los resultados dependen del sector y no deben generalizarse.",
+  "autores": "Jaramillo Aguirre, S.",
+  "anio": "2016"
+ },
+ {
+  "id": "LEC-047",
+  "tema": [
+   "liquidez"
+  ],
+  "cita": "Díaz Ortega, N. I.; Eslava Zapata, R. A.; Gómez Ortiz, E. J. (2023). Gestión del Capital de Trabajo y Rentabilidad en Empresas del Sector Manufactura Colombiano. International Journal of Professional Business Review, 8(9), e03755.",
+  "corta": "Gestión del capital de trabajo y rentabilidad en empresas del sector…",
+  "url": "https://openaccessojs.com/JBReview/article/view/3755",
+  "doi": "",
+  "tipo": "academico",
+  "autor_udea": "",
+  "afirma": "Analiza un panel de 40 empresas del sector arcilla en Colombia (2017-2021). Encuentra que el EBITDA y el ROE influyen positivamente en la rentabilidad financiera, mientras que el capital de trabajo y el capital de trabajo operativo neto tienen efecto negativo.",
+  "donde": "Resumen",
+  "leido": "abierta y leída",
+  "nivel": "lectura",
+  "frase": "Analiza un panel de 40 empresas del sector arcilla en Colombia (2017-2021). Encuentra que el EBITDA y el ROE influyen positivamente en la rentabilidad financiera, mientras que el capital de trabajo y el capital de trabajo operativo neto tienen efecto negativo.",
+  "autores": "Díaz Ortega, N. I.; Eslava Zapata, R. A.; Gómez Ortiz, E. J.",
+  "anio": "2023"
+ },
+ {
+  "id": "LEC-048",
+  "tema": [
+   "liquidez"
+  ],
+  "cita": "Vargas Arévalo, H. A. (2003). Consideraciones prácticas para la gestión del capital de trabajo en las pymes innovadoras. Revista EAN, No. 47, pp. 98-109.",
+  "corta": "Consideraciones prácticas para la gestión del capital de trabajo en las…",
+  "url": "https://journal.universidadean.edu.co/index.php/Revista/article/view/237",
+  "doi": "",
+  "tipo": "academico",
+  "autor_udea": "",
+  "afirma": "Señala que las pymes colombianas son fuente principal de empleo pero muchas carecen de capacidad de gestión para ser innovadoras y sostenibles. El artículo busca consolidar conceptos de gestión del capital de trabajo con énfasis en la rentabilidad y ofrecer recursos estratégicos para mejorarla.",
+  "donde": "Resumen",
+  "leido": "abierta y leída",
+  "nivel": "lectura",
+  "frase": "Señala que las pymes colombianas son fuente principal de empleo pero muchas carecen de capacidad de gestión para ser innovadoras y sostenibles. El artículo busca consolidar conceptos de gestión del capital de trabajo con énfasis en la rentabilidad y ofrecer recursos estratégicos para mejorarla.",
+  "autores": "Vargas Arévalo, H. A.",
+  "anio": "2003"
+ },
+ {
+  "id": "LEC-049",
+  "tema": [
+   "supervivencia"
+  ],
+  "cita": "Romero Espinosa, F.; Melgarejo Molina, Z. A.; Vera-Colina, M. A. (2015). Fracaso empresarial de las pequeñas y medianas empresas (pymes) en Colombia. Suma de Negocios, 6(13), 29-41.",
+  "corta": "Fracaso empresarial de las pequeñas y medianas empresas (pymes) en Colombia",
+  "url": "https://www.redalyc.org/journal/6099/609964673004/609964673004.pdf",
+  "doi": "",
+  "tipo": "academico",
+  "autor_udea": "",
+  "afirma": "Con estados financieros 2009-2013 de 48 pymes sanas y 48 fallidas, identifica variables financieras que las distinguen. Las empresas fallidas tenían menor liquidez, déficit de capital de trabajo, mayor endeudamiento (pasivos de 106,2% del activo en 2013 frente a 49,5%) y pérdidas patrimoniales.",
+  "donde": "Resumen y Resultados",
+  "leido": "abierta y leída",
+  "nivel": "lectura",
+  "frase": "Con estados financieros 2009-2013 de 48 pymes sanas y 48 fallidas, identifica variables financieras que las distinguen. Las empresas fallidas tenían menor liquidez, déficit de capital de trabajo, mayor endeudamiento (pasivos de 106,2% del activo en 2013 frente a 49,5%) y pérdidas patrimoniales.",
+  "autores": "Romero Espinosa, F.; Melgarejo Molina, Z. A.; Vera-Colina, M. A.",
+  "anio": "2015"
+ },
+ {
+  "id": "LEC-050",
+  "tema": [
+   "supervivencia"
+  ],
+  "cita": "Sepúlveda Rivillas, C. I.; Reina Gutiérrez, W. (2016). Sostenibilidad de los emprendimientos: un análisis de los factores determinantes. Revista Venezolana de Gerencia, 21(73), 33-49.",
+  "corta": "Sostenibilidad de los emprendimientos: un análisis de los factores…",
+  "url": "https://kujane.minciencias.gov.co/Record/UDEA2_69bc952943c3ce42ead4f0e16b8b9dc4/Details",
+  "doi": "",
+  "tipo": "academico",
+  "autor_udea": "",
+  "afirma": "Con análisis de supervivencia (Kaplan-Meier) en la subregión del Bajo Cauca, encuentra que el motivo de creación, el plan de negocio, la oferta de producto, la forma legal, el endeudamiento, la reinversión, la ubicación y el sector son determinantes de la sostenibilidad. Concluye que los factores varían según el contexto.",
+  "donde": "Resumen",
+  "leido": "abierta y leída",
+  "nivel": "lectura",
+  "frase": "Con análisis de supervivencia (Kaplan-Meier) en la subregión del Bajo Cauca, encuentra que el motivo de creación, el plan de negocio, la oferta de producto, la forma legal, el endeudamiento, la reinversión, la ubicación y el sector son determinantes de la sostenibilidad. Concluye que los factores varían según el contexto.",
+  "autores": "Sepúlveda Rivillas, C. I.; Reina Gutiérrez, W.",
+  "anio": "2016"
+ },
+ {
+  "id": "LEC-051",
+  "tema": [
+   "supervivencia"
+  ],
+  "cita": "Confecámaras (2023). Según estudio de Confecámaras el 33,5 % de las empresas del país sobreviven al término de 5 años. Confecámaras (comunicado sobre el estudio La Supervivencia Empresarial en Colombia).",
+  "corta": "Según estudio de Confecámaras el 33,5 % de las empresas del país…",
+  "url": "https://confecamaras.org.co/segun-estudio-de-confecamaras-el-33-5-de-las-empresas-del-pais-sobreviven-al-termino-de-5-anos/",
+  "doi": "",
+  "tipo": "institucional",
+  "autor_udea": "",
+  "afirma": "Reporta que 33,5% de las unidades productivas creadas en 2017 seguían operando en 2022 (98.696 de 296.896), por debajo del promedio OCDE. La supervivencia aumenta con el tamaño: 33,4% en microempresas y 60,9% en pequeñas.",
+  "donde": "Cuerpo del comunicado (16 de mayo de 2023)",
+  "leido": "abierta y leída",
+  "nivel": "lectura",
+  "frase": "Reporta que 33,5% de las unidades productivas creadas en 2017 seguían operando en 2022 (98.696 de 296.896), por debajo del promedio OCDE. La supervivencia aumenta con el tamaño: 33,4% en microempresas y 60,9% en pequeñas.",
+  "autores": "Confecámaras",
+  "anio": "2023"
+ },
+ {
+  "id": "LEC-052",
+  "tema": [
+   "inventarios"
+  ],
+  "cita": "Osorio, C. A. (2008). Modelos para el control de inventarios en las pymes. Panorama, 2(6) (Politécnico Grancolombiano).",
+  "corta": "Modelos para el control de inventarios en las pymes",
+  "url": "https://revistas.poligran.edu.co/index.php/panorama/article/view/241",
+  "doi": "",
+  "tipo": "academico",
+  "autor_udea": "",
+  "afirma": "Sostiene que la complejidad de la gestión de inventarios puede abordarse integrando modelos de inventario en sistemas de soporte a la decisión. Revisa modelos teóricos de control adaptables a las pymes colombianas e identifica elementos para integrarlos.",
+  "donde": "Resumen",
+  "leido": "abierta y leída",
+  "nivel": "lectura",
+  "frase": "Sostiene que la complejidad de la gestión de inventarios puede abordarse integrando modelos de inventario en sistemas de soporte a la decisión. Revisa modelos teóricos de control adaptables a las pymes colombianas e identifica elementos para integrarlos.",
+  "autores": "Osorio, C. A.",
+  "anio": "2008"
+ },
+ {
+  "id": "LEC-053",
+  "tema": [
+   "inventarios"
+  ],
+  "cita": "Rueda-Vera, G.; Avendaño-Castro, W.-R.; Parada-Trujillo, A.-E. (2022). Sistemas de información y control de inventarios en Micro Pequeñas y Medianas Empresas - Mipymes de la ciudad de Cúcuta, Colombia. Saber, Ciencia y Libertad, 17(2) (Universidad Libre).",
+  "corta": "Sistemas de información y control de inventarios en Micro, Pequeñas y…",
+  "url": "https://revistas.unilibre.edu.co/index.php/saber/article/view/9295",
+  "doi": "",
+  "tipo": "academico",
+  "autor_udea": "",
+  "afirma": "Estudio cuantitativo correlacional con 300 gerentes o propietarios de mipymes comerciales de Cúcuta. Concluye que los sistemas de información inciden de manera positiva en la gestión y control de inventarios.",
+  "donde": "Resumen y Conclusión",
+  "leido": "abierta y leída",
+  "nivel": "lectura",
+  "frase": "Estudio cuantitativo correlacional con 300 gerentes o propietarios de mipymes comerciales de Cúcuta. Concluye que los sistemas de información inciden de manera positiva en la gestión y control de inventarios.",
+  "autores": "Rueda-Vera, G.; Avendaño-Castro, W.-R.; Parada-Trujillo, A.-E.",
+  "anio": "2022"
+ },
+ {
+  "id": "LEC-054",
+  "tema": [
+   "inventarios"
+  ],
+  "cita": "Guerra Naranjo, L. M. (2024). Evaluación de la influencia de la gestión de inventarios en el rendimiento empresarial: Un estudio de caso. Reflexiones Contables, 7(2), 15-28.",
+  "corta": "Evaluación de la influencia de la gestión de inventarios en el rendimiento…",
+  "url": "https://dialnet.unirioja.es/descarga/articulo/9592900.pdf",
+  "doi": "",
+  "tipo": "academico",
+  "autor_udea": "",
+  "afirma": "Revisión bibliográfica, descriptiva y cualitativa que examina cómo la gestión eficiente de inventarios afecta la rentabilidad en Colombia. Plantea que el exceso o el defecto de existencias son riesgosos y que una buena gestión minimiza costos y sostiene un alto margen.",
+  "donde": "Resumen y Conclusiones",
+  "leido": "abierta y leída",
+  "nivel": "lectura",
+  "frase": "Revisión bibliográfica, descriptiva y cualitativa que examina cómo la gestión eficiente de inventarios afecta la rentabilidad en Colombia. Plantea que el exceso o el defecto de existencias son riesgosos y que una buena gestión minimiza costos y sostiene un alto margen.",
+  "autores": "Guerra Naranjo, L. M.",
+  "anio": "2024"
+ },
+ {
+  "id": "LEC-056",
+  "tema": [
+   "procesos"
+  ],
+  "cita": "Barrios-Hernández, K. del C.; Contreras Salinas, J. A.; Olivero-Vega, E. (2019). La Gestión por procesos en las Pymes de Barranquilla: factor diferenciador de la competitividad organizacional. Información Tecnológica (Centro de Información Tecnológica).",
+  "corta": "La gestión por procesos en las pymes de Barranquilla: factor diferenciador…",
+  "url": "https://bonga.unisimon.edu.co/handle/20.500.12442/2769",
+  "doi": "",
+  "tipo": "academico",
+  "autor_udea": "",
+  "afirma": "Con enfoque cualitativo y revisión documental sobre pymes de comercio y servicios con más de cinco años, concluye que la gestión por procesos aporta de manera significativa al impulso de la competitividad empresarial y favorece la coordinación y el uso eficiente de recursos.",
+  "donde": "Resumen",
+  "leido": "abierta y leída",
+  "nivel": "lectura",
+  "frase": "Con enfoque cualitativo y revisión documental sobre pymes de comercio y servicios con más de cinco años, concluye que la gestión por procesos aporta de manera significativa al impulso de la competitividad empresarial y favorece la coordinación y el uso eficiente de recursos.",
+  "autores": "Barrios-Hernández, K. del C.; Contreras Salinas, J. A.; Olivero-Vega, E.",
+  "anio": "2019"
+ },
+ {
+  "id": "LEC-057",
+  "tema": [
+   "procesos",
+   "transformacion_digital"
+  ],
+  "cita": "Díaz Piraquive, F. N. (2008). Gestión de procesos de negocio BPM (Business Process Management), TIC y crecimiento empresarial ¿Qué es BPM y cómo se articula con el crecimiento empresarial?. Revista Universidad y Empresa, 10(15), 151-176 (Universidad del Rosario).",
+  "corta": "Gestión de procesos de negocio BPM, TIC y crecimiento empresarial: ¿qué es…",
+  "url": "https://revistas.urosario.edu.co/index.php/empresa/article/view/1061",
+  "doi": "",
+  "tipo": "academico",
+  "autor_udea": "",
+  "afirma": "Presenta BPM como técnica estratégica para generar y controlar cambios de forma ágil y de calidad, orientada a objetivos estratégicos. Sostiene que los procesos son un activo fundamental que las empresas deben adaptar, optimizar e integrar apoyándose en TIC, y que BPM respalda decisiones gerenciales ante la competencia y la globalización.",
+  "donde": "Resumen",
+  "leido": "abierta y leída",
+  "nivel": "lectura",
+  "frase": "Presenta BPM como técnica estratégica para generar y controlar cambios de forma ágil y de calidad, orientada a objetivos estratégicos. Sostiene que los procesos son un activo fundamental que las empresas deben adaptar, optimizar e integrar apoyándose en TIC, y que BPM respalda decisiones gerenciales ante la competencia y la globalización.",
+  "autores": "Díaz Piraquive, F. N.",
+  "anio": "2008"
+ },
+ {
+  "id": "LEC-058",
+  "tema": [
+   "procesos"
+  ],
+  "cita": "Rodríguez Pinzón, J. A., Palencia Fajardo, O. (2020). Gestión económica del BPM (Busines Process Management) en la productividad de las pymes metalmecánicas en la localidad de Fontibón de la ciudad de Bogotá. Revista Estrategia Organizacional (UNAD), 9(1), 1-9.",
+  "corta": "Gestión económica del BPM en la productividad de las pymes metalmecánicas…",
+  "url": "https://dialnet.unirioja.es/descarga/articulo/7830617.pdf",
+  "doi": "",
+  "tipo": "academico",
+  "autor_udea": "",
+  "afirma": "Estudio descriptivo con encuesta a 35 pymes metalmecánicas de Fontibón que aplica BPM con buenas prácticas ITIL. Halla procesos obsoletos, falta de capacitación (51% sin formación en mejora continua) y procesos críticos no automatizados (57,14%); concluye que BPM puede mejorar la productividad si se revisan arquitectura empresarial, procesos y tecnología.",
+  "donde": "Resumen y resultados",
+  "leido": "abierta y leída",
+  "nivel": "lectura",
+  "frase": "Estudio descriptivo con encuesta a 35 pymes metalmecánicas de Fontibón que aplica BPM con buenas prácticas ITIL. Halla procesos obsoletos, falta de capacitación (51% sin formación en mejora continua) y procesos críticos no automatizados (57,14%); concluye que BPM puede mejorar la productividad si se revisan arquitectura empresarial, procesos y tecnología.",
+  "autores": "Rodríguez Pinzón, J. A., Palencia Fajardo, O.",
+  "anio": "2020"
+ },
+ {
+  "id": "LEC-059",
+  "tema": [
+   "estrategia"
+  ],
+  "cita": "Bedoya-Jiménez, M. A., Quintero-Arango, L. F. (2024). Direccionamiento Estratégico: estudio de caso múltiple en pequeñas y medianas empresas en la ciudad de Medellín. Gestión y Desarrollo Libre, 9(17) (Universidad Libre).",
+  "corta": "Direccionamiento estratégico: estudio de caso múltiple en pequeñas y…",
+  "url": "https://revistas.unilibre.edu.co/index.php/gestion_libre/article/view/11045",
+  "doi": "",
+  "tipo": "academico",
+  "autor_udea": "",
+  "afirma": "Estudio cualitativo descriptivo con entrevistas semiestructuradas a siete mipymes de Medellín. Halla fallas en la planeación estratégica por no responder a los requerimientos del mercado y poca comprensión de la importancia de la cultura organizacional (debilidades en trabajo en equipo y retención de personal).",
+  "donde": "Resumen",
+  "leido": "abierta y leída",
+  "nivel": "lectura",
+  "frase": "Estudio cualitativo descriptivo con entrevistas semiestructuradas a siete mipymes de Medellín. Halla fallas en la planeación estratégica por no responder a los requerimientos del mercado y poca comprensión de la importancia de la cultura organizacional (debilidades en trabajo en equipo y retención de personal).",
+  "autores": "Bedoya-Jiménez, M. A., Quintero-Arango, L. F.",
+  "anio": "2024"
+ },
+ {
+  "id": "LEC-060",
+  "tema": [
+   "estrategia"
+  ],
+  "cita": "Pérez Uribe, R. (2014). La planeación estratégica en las pymes colombianas: un aporte para empresas contratistas de la FAC. Ciencia y Poder Aéreo, 9(1), 55-65.",
+  "corta": "La planeación estratégica en las pymes colombianas: un aporte para…",
+  "url": "https://publicacionesfac.com/index.php/cienciaypoderaereo/article/view/133",
+  "doi": "",
+  "tipo": "academico",
+  "autor_udea": "",
+  "afirma": "Sostiene que las mipymes son vitales para la economía colombiana y que la dirección estratégica es un pilar que sustenta la ventaja competitiva y la permanencia en el mercado. Se propone identificar las variables que más explican la sostenibilidad organizacional con el modelo MMGO de la Universidad EAN; el resumen no reporta resultados empíricos.",
+  "donde": "Resumen",
+  "leido": "abierta y leída",
+  "nivel": "lectura",
+  "frase": "Sostiene que las mipymes son vitales para la economía colombiana y que la dirección estratégica es un pilar que sustenta la ventaja competitiva y la permanencia en el mercado. Se propone identificar las variables que más explican la sostenibilidad organizacional con el modelo MMGO de la Universidad EAN; el resumen no reporta resultados empíricos.",
+  "autores": "Pérez Uribe, R.",
+  "anio": "2014"
+ },
+ {
+  "id": "LEC-061",
+  "tema": [
+   "estrategia",
+   "innovacion"
+  ],
+  "cita": "Peralta Miranda, P., Cervantes Atia, V., Salgado Herrera, R., Espinoza Pérez, A. (2020). Dirección estratégica para la innovación en pequeñas y medianas empresas de la ciudad de Barranquilla –Colombia. Universidad del Zulia (repositorio Unisimón; enlace a produccioncientificaluz.org).",
+  "corta": "Dirección estratégica para la innovación en pequeñas y medianas empresas…",
+  "url": "https://bonga.unisimon.edu.co/handle/20.500.12442/5277",
+  "doi": "",
+  "tipo": "academico",
+  "autor_udea": "",
+  "afirma": "Revisión documental de alcance propositivo que busca proponer un modelo de dirección estratégica para la innovación ajustado a las necesidades y recursos de las pymes. Concluye con el diseño de un modelo que vincula la innovación con las prácticas cotidianas de las pymes.",
+  "donde": "Resumen",
+  "leido": "abierta y leída",
+  "nivel": "lectura",
+  "frase": "Revisión documental de alcance propositivo que busca proponer un modelo de dirección estratégica para la innovación ajustado a las necesidades y recursos de las pymes. Concluye con el diseño de un modelo que vincula la innovación con las prácticas cotidianas de las pymes.",
+  "autores": "Peralta Miranda, P., Cervantes Atia, V., Salgado Herrera, R., Espinoza Pérez, A.",
+  "anio": "2020"
+ },
+ {
+  "id": "LEC-062",
+  "tema": [
+   "estrategia",
+   "innovacion"
+  ],
+  "cita": "Sánchez Quintero, J. (2003). Estrategia Integral para PyMES Innovadoras. Revista Escuela de Administración de Negocios, 47, 34-45.",
+  "corta": "Estrategia integral para PyMES innovadoras",
+  "url": "https://journal.universidadean.edu.co/index.php/Revista/article/download/230/221/632",
+  "doi": "",
+  "tipo": "academico",
+  "autor_udea": "",
+  "afirma": "Plantea que planeación prospectiva, planeación estratégica y logística dan dirección a la empresa como un trípode. Con un estudio exploratorio de 29 empresas de alimentos en Bogotá, encuentra que las pymes y microempresas tienen bajo nivel de racionalidad gerencial (alrededor de 39% en planeación prospectiva) frente a las grandes, y propone una guía de gestión integral para pymes.",
+  "donde": "Resumen y conclusiones",
+  "leido": "abierta y leída",
+  "nivel": "lectura",
+  "frase": "Plantea que planeación prospectiva, planeación estratégica y logística dan dirección a la empresa como un trípode. Con un estudio exploratorio de 29 empresas de alimentos en Bogotá, encuentra que las pymes y microempresas tienen bajo nivel de racionalidad gerencial (alrededor de 39% en planeación prospectiva) frente a las grandes, y propone una guía de gestión integral para pymes.",
+  "autores": "Sánchez Quintero, J.",
+  "anio": "2003"
+ },
+ {
+  "id": "LEC-063",
+  "tema": [
+   "facturacion"
+  ],
+  "cita": "da Silva, S. R., Hernandez Aros, L., da Silva, M. W., Gallego Cossio, L. C. (2016). Análisis del modelo operativo de la factura electrónica colombiana. Revista Científica Hermes, 15, 142-172.",
+  "corta": "Análisis del modelo operativo de la factura electrónica colombiana",
+  "url": "https://www.redalyc.org/pdf/4776/477656007008.pdf",
+  "doi": "",
+  "tipo": "academico",
+  "autor_udea": "",
+  "afirma": "Estudio cualitativo, descriptivo y documental del marco regulatorio y el proceso de facturación electrónica en Colombia. Encuentra que el proceso no es especialmente complejo pero exige infraestructura y personal capacitado, y atribuye la baja adopción a la falta de habilidades técnicas y software adecuado y a su carácter voluntario.",
+  "donde": "Resumen y resultados",
+  "leido": "abierta y leída",
+  "nivel": "lectura",
+  "frase": "Estudio cualitativo, descriptivo y documental del marco regulatorio y el proceso de facturación electrónica en Colombia. Encuentra que el proceso no es especialmente complejo pero exige infraestructura y personal capacitado, y atribuye la baja adopción a la falta de habilidades técnicas y software adecuado y a su carácter voluntario.",
+  "autores": "da Silva, S. R., Hernandez Aros, L., da Silva, M. W., Gallego Cossio, L. C.",
+  "anio": "2016"
+ },
+ {
+  "id": "LEC-064",
+  "tema": [
+   "facturacion"
+  ],
+  "cita": "Mugno Valdeblanquez, A. (2022). Análisis del impacto de la facturación electrónica y su incidencia positiva y negativa en las pymes. Trabajo de grado, Universidad Cooperativa de Colombia (Santa Marta).",
+  "corta": "Análisis del impacto de la facturación electrónica y su incidencia…",
+  "url": "https://redcol.minciencias.gov.co/Record/COOPER2_ef953d5a9bdc33da1b3ac7f2f86f27fa/Details",
+  "doi": "",
+  "tipo": "academico",
+  "autor_udea": "",
+  "afirma": "Investigación documental descriptiva sobre la facturación electrónica obligatoria en Colombia (implementación plena desde 2019), orientada a controlar la evasión fiscal. Reporta que la mayoría de empresarios la ve negativamente, sobre todo por temor a perder privacidad frente al Estado, y plantea que el gobierno debe explicar mejor sus beneficios.",
+  "donde": "Resumen",
+  "leido": "abierta y leída",
+  "nivel": "lectura",
+  "frase": "Investigación documental descriptiva sobre la facturación electrónica obligatoria en Colombia (implementación plena desde 2019), orientada a controlar la evasión fiscal. Reporta que la mayoría de empresarios la ve negativamente, sobre todo por temor a perder privacidad frente al Estado, y plantea que el gobierno debe explicar mejor sus beneficios.",
+  "autores": "Mugno Valdeblanquez, A.",
+  "anio": "2022"
+ },
+ {
+  "id": "LEC-066",
+  "tema": [
+   "facturacion"
+  ],
+  "cita": "Corredor Quiñones, Y. A., Baldovino Monterroza, E., Bolaños Mejía, L. M., Gutiérrez Villamizar, A. I. (s.f.). Evolución histórica de la facturación electrónica en Colombia. Capítulo en Casos Prácticos e Investigaciones en Tributación (Experiencias en procesos contables); Corporación Universitaria Adventista.",
+  "corta": "Evolución histórica de la facturación electrónica en Colombia",
+  "url": "https://sedunac.unac.edu.co/omp/index.php/sedunac/catalog/download/79/289/422?inline=1",
+  "doi": "",
+  "tipo": "academico",
+  "autor_udea": "",
+  "afirma": "Investigación documental descriptiva que ubica la creación de la factura electrónica en la Ley 962 de 2015 y su obligatoriedad en la Resolución 00042 de 2020. Concluye que la relación costo-beneficio favorece a los contribuyentes a mediano plazo, que el costo fue obstáculo en la primera etapa, y recomienda acompañamiento y capacitación de la DIAN.",
+  "donde": "Resumen y conclusiones",
+  "leido": "abierta y leída",
+  "nivel": "lectura",
+  "frase": "Investigación documental descriptiva que ubica la creación de la factura electrónica en la Ley 962 de 2015 y su obligatoriedad en la Resolución 00042 de 2020. Concluye que la relación costo-beneficio favorece a los contribuyentes a mediano plazo, que el costo fue obstáculo en la primera etapa, y recomienda acompañamiento y capacitación de la DIAN.",
+  "autores": "Corredor Quiñones, Y. A., Baldovino Monterroza, E., Bolaños Mejía, L. M., Gutiérrez Villamizar, A. I.",
+  "anio": "s.f."
+ },
+ {
+  "id": "LEC-068",
+  "tema": [
+   "capacitacion"
+  ],
+  "cita": "Chaves Rodríguez, D. C., Perea Paredes, A., Quintero Forero, A. C. (2014). Modelo de capacitación para el personal de una pyme colombiana. Trabajo de grado, Especialización en Gestión Humana en las Organizaciones, Universidad Piloto de Colombia.",
+  "corta": "Modelo de capacitación para el personal de una pyme colombiana",
+  "url": "https://repository.unipiloto.edu.co/bitstream/handle/20.500.12277/3121/00001464.pdf",
+  "doi": "",
+  "tipo": "academico",
+  "autor_udea": "",
+  "afirma": "Revisa modelos de capacitación y, con tres entrevistas, propone el modelo PIME (panorámica del entorno, identificación de necesidades, metodología, evaluación) que vincula estrategia, procesos y personas. Concluye que las pymes suelen carecer de gestión humana desarrollada y que la capacitación debe planearse y medirse como factor de ventaja competitiva; reconoce que el modelo requiere más validación.",
+  "donde": "Resumen y conclusiones",
+  "leido": "abierta y leída",
+  "nivel": "lectura",
+  "frase": "Revisa modelos de capacitación y, con tres entrevistas, propone el modelo PIME (panorámica del entorno, identificación de necesidades, metodología, evaluación) que vincula estrategia, procesos y personas. Concluye que las pymes suelen carecer de gestión humana desarrollada y que la capacitación debe planearse y medirse como factor de ventaja competitiva; reconoce que el modelo requiere más validación.",
+  "autores": "Chaves Rodríguez, D. C., Perea Paredes, A., Quintero Forero, A. C.",
+  "anio": "2014"
+ },
+ {
+  "id": "LEC-069",
+  "tema": [
+   "capacitacion",
+   "transformacion_digital"
+  ],
+  "cita": "ProTalento para GAN Colombia (liderada por ANDI) (s.f.). Digital Skills in Colombia. Does the digital future belong to everyone? (versión en inglés de Habilidades digitales en Colombia). GAN Colombia / ANDI.",
+  "corta": "Habilidades digitales en Colombia",
+  "url": "https://www.gan-global.org/wp-content/uploads/2026/02/GAN-Colombia_Digital-skills-in-Colombia.-Does-the-digital-future-belong-to-everyone.pdf",
+  "doi": "",
+  "tipo": "institucional",
+  "autor_udea": "",
+  "afirma": "Reporta brechas de acceso (internet en hogares rurales 8,1% frente a 51,2% urbanos) y de habilidades (solo cerca de una cuarta parte de la población de 7 años o más tiene habilidades TIC básicas), además de desajuste entre educación y mercado laboral. Pide una estrategia nacional de habilidades digitales y un sistema de certificación.",
+  "donde": "Resultados y recomendaciones",
+  "leido": "abierta y leída",
+  "nivel": "lectura",
+  "frase": "Reporta brechas de acceso (internet en hogares rurales 8,1% frente a 51,2% urbanos) y de habilidades (solo cerca de una cuarta parte de la población de 7 años o más tiene habilidades TIC básicas), además de desajuste entre educación y mercado laboral. Pide una estrategia nacional de habilidades digitales y un sistema de certificación.",
+  "autores": "ProTalento para GAN Colombia (liderada por ANDI)",
+  "anio": "s.f."
+ },
+ {
+  "id": "LEC-070",
+  "tema": [
+   "clientes_crm"
+  ],
+  "cita": "Montoya Agudelo, C. A., Boyero Saavedra, M. R. (2013). El CRM como herramienta para el servicio al cliente en la organización. Revista Científica Visión de Futuro, 17(1), 130-151.",
+  "corta": "El CRM como herramienta para el servicio al cliente en la organización",
+  "url": "https://www.redalyc.org/pdf/3579/357935480005.pdf",
+  "doi": "",
+  "tipo": "academico",
+  "autor_udea": "",
+  "afirma": "Presenta el CRM como herramienta para mejorar el servicio, punto clave de contacto con el cliente. Concluye que no debe implementarse hasta que la organización tenga claro quiénes son sus clientes y qué quiere lograr con la información, y que cada contacto debe generar satisfacción; cita el caso de Genfar S.A.",
+  "donde": "Resumen y conclusiones",
+  "leido": "abierta y leída",
+  "nivel": "lectura",
+  "frase": "Presenta el CRM como herramienta para mejorar el servicio, punto clave de contacto con el cliente. Concluye que no debe implementarse hasta que la organización tenga claro quiénes son sus clientes y qué quiere lograr con la información, y que cada contacto debe generar satisfacción; cita el caso de Genfar S.A.",
+  "autores": "Montoya Agudelo, C. A., Boyero Saavedra, M. R.",
+  "anio": "2013"
+ },
+ {
+  "id": "LEC-071",
+  "tema": [
+   "clientes_crm"
+  ],
+  "cita": "Beltrán, C. (2024). Customer Relationship Management: factor clave en la ventaja competitiva organizacional. Una revisión literaria. IROCAMM - International Review of Communication and Marketing Mix, 7(1), 67-76.",
+  "corta": "Customer Relationship Management: factor clave en la ventaja competitiva…",
+  "url": "https://revistascientificas.us.es/index.php/IROCAMM/article/download/23066/23073/127035",
+  "doi": "",
+  "tipo": "academico",
+  "autor_udea": "",
+  "afirma": "Revisión de literatura que presenta el CRM como un cambio estratégico global en la empresa y no solo software, cuyo éxito depende de estructura, procesos, calidad de datos y fuerza de ventas capacitada. Señala beneficios en lealtad, eficiencia y rentabilidad, pero como revisión no mide la relación con la ventaja competitiva.",
+  "donde": "Resumen y conclusiones",
+  "leido": "abierta y leída",
+  "nivel": "lectura",
+  "frase": "Revisión de literatura que presenta el CRM como un cambio estratégico global en la empresa y no solo software, cuyo éxito depende de estructura, procesos, calidad de datos y fuerza de ventas capacitada. Señala beneficios en lealtad, eficiencia y rentabilidad, pero como revisión no mide la relación con la ventaja competitiva.",
+  "autores": "Beltrán, C.",
+  "anio": "2024"
+ },
+ {
+  "id": "LEC-072",
+  "tema": [
+   "clientes_crm"
+  ],
+  "cita": "Guadarrama Tavira, E., Rosales Estrada, E. M. (2015). Marketing relacional: valor, satisfacción, lealtad y retención del cliente. Análisis y reflexión teórica. Ciencia y Sociedad, 40(2), 307-340.",
+  "corta": "Marketing relacional: valor, satisfacción, lealtad y retención del…",
+  "url": "https://dialnet.unirioja.es/descarga/articulo/7403716.pdf",
+  "doi": "",
+  "tipo": "academico",
+  "autor_udea": "",
+  "afirma": "Compila y analiza críticamente estudios sobre gestión de relaciones con clientes, satisfacción y lealtad. Concluye que retener clientes cuesta menos que captarlos y que satisfacción, calidad de servicio y valor influyen en la retención, sin establecer cuánto aporta cada variable.",
+  "donde": "Resumen y conclusiones",
+  "leido": "abierta y leída",
+  "nivel": "lectura",
+  "frase": "Compila y analiza críticamente estudios sobre gestión de relaciones con clientes, satisfacción y lealtad. Concluye que retener clientes cuesta menos que captarlos y que satisfacción, calidad de servicio y valor influyen en la retención, sin establecer cuánto aporta cada variable.",
+  "autores": "Guadarrama Tavira, E., Rosales Estrada, E. M.",
+  "anio": "2015"
+ },
+ {
+  "id": "LEC-073",
+  "tema": [
+   "pagos"
+  ],
+  "cita": "Banco de la República (Blog BanRep; autoría individual no indicada) (2023). Gaps in the Development of Digital Payments in Colombia. Blog BanRep, Banco de la República de Colombia.",
+  "corta": "Gaps in the Development of Digital Payments in Colombia",
+  "url": "https://www.banrep.gov.co/en/node/59297",
+  "doi": "",
+  "tipo": "institucional",
+  "autor_udea": "",
+  "afirma": "Con la Encuesta de Demanda de Inclusión Financiera 2022, muestra que más del 50% de los encuestados aumentó su uso de canales de pago digitales tras la pandemia, pero el efectivo sigue siendo el instrumento más usado, sobre todo en zonas rurales y hogares de bajos ingresos. Concluye que hay que facilitar el uso y reducir los costos de acceso.",
+  "donde": "Resultados y conclusiones",
+  "leido": "abierta y leída",
+  "nivel": "lectura",
+  "frase": "Con la Encuesta de Demanda de Inclusión Financiera 2022, muestra que más del 50% de los encuestados aumentó su uso de canales de pago digitales tras la pandemia, pero el efectivo sigue siendo el instrumento más usado, sobre todo en zonas rurales y hogares de bajos ingresos. Concluye que hay que facilitar el uso y reducir los costos de acceso.",
+  "autores": "Banco de la República (Blog BanRep; autoría individual no indicada)",
+  "anio": "2023"
+ }
+]

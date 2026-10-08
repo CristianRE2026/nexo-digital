@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Nexo Digital">
+  <defs>
+    <linearGradient id="nxg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B7B43"/>
+      <stop offset="1" stop-color="#026937"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="15" fill="url(#nxg)"/>
+  <path d="M19 46V18L45 46V18" fill="none" stroke="#FFFFFF" stroke-width="4.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="19" cy="18" r="5.4" fill="#8DC63F"/>
+  <circle cx="19" cy="46" r="5.4" fill="#8DC63F"/>
+  <circle cx="45" cy="18" r="5.4" fill="#8DC63F"/>
+  <circle cx="45" cy="46" r="5.4" fill="#8DC63F"/>
+  <circle cx="32" cy="32" r="2.6" fill="#FFFFFF"/>
+</svg>
