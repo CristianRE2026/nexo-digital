@@ -1,0 +1,324 @@
+fecha,tipo,categoria,descripcion,monto
+2025-04-06,ingreso,Ventas,Pedidos de clientes,13357000.0
+2025-04-12,ingreso,Ventas,Pedidos de clientes,13635000.0
+2025-04-14,ingreso,Ventas,Pedidos de clientes,1600000.0
+2025-04-16,ingreso,Ventas,Pedidos de clientes,494000.0
+2025-04-20,ingreso,Ventas,Pedidos de clientes,8305000.0
+2025-04-24,ingreso,Ventas,Pedidos de clientes,8061000.0
+2025-04-26,ingreso,Ventas,Pedidos de clientes,17863000.0
+2025-04-28,ingreso,Ventas,Pedidos de clientes,453000.0
+2025-04-03,gasto,Proveedores,Compra de mercancía,22539000.0
+2025-04-12,gasto,Proveedores,Compra de mercancía,2814000.0
+2025-04-22,gasto,Proveedores,Compra de mercancía,1676000.0
+2025-04-30,gasto,Nómina,Pago de nómina,19500000.0
+2025-04-05,gasto,Arriendo,Bodega y local,4500000.0
+2025-04-10,gasto,Servicios públicos,"Energía, agua, internet",1885000.0
+2025-04-15,gasto,Transporte,Domicilios y fletes,2500000.0
+2025-04-08,gasto,Marketing,Pauta y promociones,1632000.0
+2025-04-25,gasto,Crédito bancario,Cuota e intereses,3200000.0
+2025-04-18,gasto,Impuestos,IVA / retenciones,3000000.0
+2025-05-05,ingreso,Ventas,Pedidos de clientes,12928000.0
+2025-05-12,ingreso,Ventas,Pedidos de clientes,2317000.0
+2025-05-17,ingreso,Ventas,Pedidos de clientes,19049000.0
+2025-05-22,ingreso,Ventas,Pedidos de clientes,12718000.0
+2025-05-24,ingreso,Ventas,Pedidos de clientes,6797000.0
+2025-05-24,ingreso,Ventas,Pedidos de clientes,4323000.0
+2025-05-29,ingreso,Ventas,Pedidos de clientes,4698000.0
+2025-05-30,ingreso,Ventas,Pedidos de clientes,799000.0
+2025-05-03,gasto,Proveedores,Compra de mercancía,4559000.0
+2025-05-12,gasto,Proveedores,Compra de mercancía,8835000.0
+2025-05-22,gasto,Proveedores,Compra de mercancía,12293000.0
+2025-05-30,gasto,Nómina,Pago de nómina,19500000.0
+2025-05-05,gasto,Arriendo,Bodega y local,4500000.0
+2025-05-10,gasto,Servicios públicos,"Energía, agua, internet",1986000.0
+2025-05-15,gasto,Transporte,Domicilios y fletes,2575000.0
+2025-05-08,gasto,Marketing,Pauta y promociones,1374000.0
+2025-05-25,gasto,Crédito bancario,Cuota e intereses,3200000.0
+2025-06-05,ingreso,Ventas,Pedidos de clientes,2379000.0
+2025-06-06,ingreso,Ventas,Pedidos de clientes,10683000.0
+2025-06-08,ingreso,Ventas,Pedidos de clientes,11141000.0
+2025-06-09,ingreso,Ventas,Pedidos de clientes,8684000.0
+2025-06-20,ingreso,Ventas,Pedidos de clientes,585000.0
+2025-06-21,ingreso,Ventas,Pedidos de clientes,9084000.0
+2025-06-25,ingreso,Ventas,Pedidos de clientes,10849000.0
+2025-06-27,ingreso,Ventas,Pedidos de clientes,8988000.0
+2025-06-03,gasto,Proveedores,Compra de mercancía,783000.0
+2025-06-12,gasto,Proveedores,Compra de mercancía,6153000.0
+2025-06-22,gasto,Proveedores,Compra de mercancía,18697000.0
+2025-06-30,gasto,Nómina,Pago de nómina,19500000.0
+2025-06-20,gasto,Prestaciones sociales,Prima de servicios,9000000.0
+2025-06-05,gasto,Arriendo,Bodega y local,4500000.0
+2025-06-10,gasto,Servicios públicos,"Energía, agua, internet",1962000.0
+2025-06-15,gasto,Transporte,Domicilios y fletes,2652000.0
+2025-06-08,gasto,Marketing,Pauta y promociones,1429000.0
+2025-06-25,gasto,Crédito bancario,Cuota e intereses,3200000.0
+2025-06-18,gasto,Impuestos,IVA / retenciones,3000000.0
+2025-07-01,ingreso,Ventas,Pedidos de clientes,1701000.0
+2025-07-03,ingreso,Ventas,Pedidos de clientes,610000.0
+2025-07-10,ingreso,Ventas,Pedidos de clientes,5098000.0
+2025-07-11,ingreso,Ventas,Pedidos de clientes,6475000.0
+2025-07-14,ingreso,Ventas,Pedidos de clientes,7096000.0
+2025-07-18,ingreso,Ventas,Pedidos de clientes,24990000.0
+2025-07-19,ingreso,Ventas,Pedidos de clientes,9915000.0
+2025-07-25,ingreso,Ventas,Pedidos de clientes,7741000.0
+2025-07-03,gasto,Proveedores,Compra de mercancía,10432000.0
+2025-07-12,gasto,Proveedores,Compra de mercancía,14029000.0
+2025-07-22,gasto,Proveedores,Compra de mercancía,2297000.0
+2025-07-30,gasto,Nómina,Pago de nómina,19500000.0
+2025-07-05,gasto,Arriendo,Bodega y local,4500000.0
+2025-07-10,gasto,Servicios públicos,"Energía, agua, internet",1890000.0
+2025-07-15,gasto,Transporte,Domicilios y fletes,2732000.0
+2025-07-08,gasto,Marketing,Pauta y promociones,1575000.0
+2025-07-25,gasto,Crédito bancario,Cuota e intereses,3200000.0
+2025-08-03,ingreso,Ventas,Pedidos de clientes,9569000.0
+2025-08-04,ingreso,Ventas,Pedidos de clientes,24834000.0
+2025-08-05,ingreso,Ventas,Pedidos de clientes,8776000.0
+2025-08-15,ingreso,Ventas,Pedidos de clientes,15313000.0
+2025-08-22,ingreso,Ventas,Pedidos de clientes,3365000.0
+2025-08-23,ingreso,Ventas,Pedidos de clientes,1566000.0
+2025-08-23,ingreso,Ventas,Pedidos de clientes,1660000.0
+2025-08-24,ingreso,Ventas,Pedidos de clientes,1371000.0
+2025-08-03,gasto,Proveedores,Compra de mercancía,1502000.0
+2025-08-12,gasto,Proveedores,Compra de mercancía,15390000.0
+2025-08-22,gasto,Proveedores,Compra de mercancía,10365000.0
+2025-08-30,gasto,Nómina,Pago de nómina,19500000.0
+2025-08-05,gasto,Arriendo,Bodega y local,4500000.0
+2025-08-10,gasto,Servicios públicos,"Energía, agua, internet",1988000.0
+2025-08-15,gasto,Transporte,Domicilios y fletes,2814000.0
+2025-08-08,gasto,Marketing,Pauta y promociones,1437000.0
+2025-08-25,gasto,Crédito bancario,Cuota e intereses,3200000.0
+2025-08-18,gasto,Impuestos,IVA / retenciones,3000000.0
+2025-09-08,ingreso,Ventas,Pedidos de clientes,1955000.0
+2025-09-08,ingreso,Ventas,Pedidos de clientes,486000.0
+2025-09-09,ingreso,Ventas,Pedidos de clientes,3230000.0
+2025-09-14,ingreso,Ventas,Pedidos de clientes,14445000.0
+2025-09-22,ingreso,Ventas,Pedidos de clientes,6471000.0
+2025-09-23,ingreso,Ventas,Pedidos de clientes,19773000.0
+2025-09-24,ingreso,Ventas,Pedidos de clientes,13127000.0
+2025-09-24,ingreso,Ventas,Pedidos de clientes,7171000.0
+2025-09-03,gasto,Proveedores,Compra de mercancía,23028000.0
+2025-09-12,gasto,Proveedores,Compra de mercancía,1506000.0
+2025-09-22,gasto,Proveedores,Compra de mercancía,2017000.0
+2025-09-30,gasto,Nómina,Pago de nómina,19500000.0
+2025-09-05,gasto,Arriendo,Bodega y local,4500000.0
+2025-09-10,gasto,Servicios públicos,"Energía, agua, internet",2052000.0
+2025-09-15,gasto,Transporte,Domicilios y fletes,2898000.0
+2025-09-08,gasto,Marketing,Pauta y promociones,1536000.0
+2025-09-25,gasto,Crédito bancario,Cuota e intereses,3200000.0
+2025-10-02,ingreso,Ventas,Pedidos de clientes,6033000.0
+2025-10-06,ingreso,Ventas,Pedidos de clientes,19036000.0
+2025-10-06,ingreso,Ventas,Pedidos de clientes,13588000.0
+2025-10-11,ingreso,Ventas,Pedidos de clientes,10323000.0
+2025-10-13,ingreso,Ventas,Pedidos de clientes,1507000.0
+2025-10-16,ingreso,Ventas,Pedidos de clientes,10483000.0
+2025-10-24,ingreso,Ventas,Pedidos de clientes,4006000.0
+2025-10-25,ingreso,Ventas,Pedidos de clientes,1091000.0
+2025-10-03,gasto,Proveedores,Compra de mercancía,350000.0
+2025-10-12,gasto,Proveedores,Compra de mercancía,20854000.0
+2025-10-22,gasto,Proveedores,Compra de mercancía,6172000.0
+2025-10-30,gasto,Nómina,Pago de nómina,19500000.0
+2025-10-05,gasto,Arriendo,Bodega y local,4500000.0
+2025-10-10,gasto,Servicios públicos,"Energía, agua, internet",1889000.0
+2025-10-15,gasto,Transporte,Domicilios y fletes,2985000.0
+2025-10-08,gasto,Marketing,Pauta y promociones,1442000.0
+2025-10-25,gasto,Crédito bancario,Cuota e intereses,3200000.0
+2025-10-18,gasto,Impuestos,IVA / retenciones,3000000.0
+2025-11-05,ingreso,Ventas,Pedidos de clientes,9879000.0
+2025-11-09,ingreso,Ventas,Pedidos de clientes,561000.0
+2025-11-14,ingreso,Ventas,Pedidos de clientes,32695000.0
+2025-11-15,ingreso,Ventas,Pedidos de clientes,4055000.0
+2025-11-17,ingreso,Ventas,Pedidos de clientes,8414000.0
+2025-11-18,ingreso,Ventas,Pedidos de clientes,1467000.0
+2025-11-25,ingreso,Ventas,Pedidos de clientes,5922000.0
+2025-11-29,ingreso,Ventas,Pedidos de clientes,1723000.0
+2025-11-03,gasto,Proveedores,Compra de mercancía,10975000.0
+2025-11-12,gasto,Proveedores,Compra de mercancía,14244000.0
+2025-11-22,gasto,Proveedores,Compra de mercancía,667000.0
+2025-11-30,gasto,Nómina,Pago de nómina,19500000.0
+2025-11-05,gasto,Arriendo,Bodega y local,4500000.0
+2025-11-10,gasto,Servicios públicos,"Energía, agua, internet",2128000.0
+2025-11-15,gasto,Transporte,Domicilios y fletes,3075000.0
+2025-11-08,gasto,Marketing,Pauta y promociones,1524000.0
+2025-11-25,gasto,Crédito bancario,Cuota e intereses,3200000.0
+2025-12-02,ingreso,Ventas,Pedidos de clientes,23109000.0
+2025-12-05,ingreso,Ventas,Pedidos de clientes,1141000.0
+2025-12-08,ingreso,Ventas,Pedidos de clientes,18904000.0
+2025-12-08,ingreso,Ventas,Pedidos de clientes,2473000.0
+2025-12-18,ingreso,Ventas,Pedidos de clientes,4539000.0
+2025-12-20,ingreso,Ventas,Pedidos de clientes,16544000.0
+2025-12-29,ingreso,Ventas,Pedidos de clientes,862000.0
+2025-12-31,ingreso,Ventas,Pedidos de clientes,1297000.0
+2025-12-03,gasto,Proveedores,Compra de mercancía,18877000.0
+2025-12-12,gasto,Proveedores,Compra de mercancía,3560000.0
+2025-12-22,gasto,Proveedores,Compra de mercancía,7602000.0
+2025-12-30,gasto,Nómina,Pago de nómina,19500000.0
+2025-12-20,gasto,Prestaciones sociales,Prima de servicios,9000000.0
+2025-12-05,gasto,Arriendo,Bodega y local,4500000.0
+2025-12-10,gasto,Servicios públicos,"Energía, agua, internet",2112000.0
+2025-12-15,gasto,Transporte,Domicilios y fletes,3167000.0
+2025-12-08,gasto,Marketing,Pauta y promociones,1558000.0
+2025-12-25,gasto,Crédito bancario,Cuota e intereses,3200000.0
+2025-12-18,gasto,Impuestos,IVA / retenciones,3000000.0
+2026-01-01,ingreso,Ventas,Pedidos de clientes,5477000.0
+2026-01-04,ingreso,Ventas,Pedidos de clientes,13181000.0
+2026-01-10,ingreso,Ventas,Pedidos de clientes,2979000.0
+2026-01-11,ingreso,Ventas,Pedidos de clientes,1831000.0
+2026-01-15,ingreso,Ventas,Pedidos de clientes,11242000.0
+2026-01-17,ingreso,Ventas,Pedidos de clientes,13949000.0
+2026-01-21,ingreso,Ventas,Pedidos de clientes,9357000.0
+2026-01-24,ingreso,Ventas,Pedidos de clientes,11684000.0
+2026-01-03,gasto,Proveedores,Compra de mercancía,1145000.0
+2026-01-12,gasto,Proveedores,Compra de mercancía,17707000.0
+2026-01-22,gasto,Proveedores,Compra de mercancía,10674000.0
+2026-01-30,gasto,Nómina,Pago de nómina,22500000.0
+2026-01-05,gasto,Arriendo,Bodega y local,4800000.0
+2026-01-10,gasto,Servicios públicos,"Energía, agua, internet",1853000.0
+2026-01-15,gasto,Transporte,Domicilios y fletes,3262000.0
+2026-01-08,gasto,Marketing,Pauta y promociones,1295000.0
+2026-01-25,gasto,Crédito bancario,Cuota e intereses,3200000.0
+2026-02-01,ingreso,Ventas,Pedidos de clientes,12044000.0
+2026-02-05,ingreso,Ventas,Pedidos de clientes,6571000.0
+2026-02-09,ingreso,Ventas,Pedidos de clientes,1322000.0
+2026-02-13,ingreso,Ventas,Pedidos de clientes,3144000.0
+2026-02-14,ingreso,Ventas,Pedidos de clientes,39902000.0
+2026-02-15,ingreso,Ventas,Pedidos de clientes,4625000.0
+2026-02-27,ingreso,Ventas,Pedidos de clientes,2963000.0
+2026-02-28,ingreso,Ventas,Pedidos de clientes,5098000.0
+2026-02-03,gasto,Proveedores,Compra de mercancía,2095000.0
+2026-02-12,gasto,Proveedores,Compra de mercancía,28757000.0
+2026-02-22,gasto,Proveedores,Compra de mercancía,1483000.0
+2026-02-28,gasto,Nómina,Pago de nómina,22500000.0
+2026-02-05,gasto,Arriendo,Bodega y local,4800000.0
+2026-02-10,gasto,Servicios públicos,"Energía, agua, internet",1994000.0
+2026-02-15,gasto,Transporte,Domicilios y fletes,3360000.0
+2026-02-08,gasto,Marketing,Pauta y promociones,1374000.0
+2026-02-25,gasto,Crédito bancario,Cuota e intereses,3200000.0
+2026-02-18,gasto,Impuestos,IVA / retenciones,3000000.0
+2026-03-05,ingreso,Ventas,Pedidos de clientes,3050000.0
+2026-03-10,ingreso,Ventas,Pedidos de clientes,18226000.0
+2026-03-10,ingreso,Ventas,Pedidos de clientes,8019000.0
+2026-03-16,ingreso,Ventas,Pedidos de clientes,18166000.0
+2026-03-16,ingreso,Ventas,Pedidos de clientes,3760000.0
+2026-03-21,ingreso,Ventas,Pedidos de clientes,3494000.0
+2026-03-30,ingreso,Ventas,Pedidos de clientes,2654000.0
+2026-03-31,ingreso,Ventas,Pedidos de clientes,10961000.0
+2026-03-03,gasto,Proveedores,Compra de mercancía,13276000.0
+2026-03-12,gasto,Proveedores,Compra de mercancía,327000.0
+2026-03-22,gasto,Proveedores,Compra de mercancía,14284000.0
+2026-03-30,gasto,Nómina,Pago de nómina,22500000.0
+2026-03-05,gasto,Arriendo,Bodega y local,4800000.0
+2026-03-10,gasto,Servicios públicos,"Energía, agua, internet",2021000.0
+2026-03-15,gasto,Transporte,Domicilios y fletes,3461000.0
+2026-03-08,gasto,Marketing,Pauta y promociones,1337000.0
+2026-03-25,gasto,Crédito bancario,Cuota e intereses,4100000.0
+2026-04-04,ingreso,Ventas,Pedidos de clientes,4240000.0
+2026-04-07,ingreso,Ventas,Pedidos de clientes,12088000.0
+2026-04-08,ingreso,Ventas,Pedidos de clientes,1945000.0
+2026-04-09,ingreso,Ventas,Pedidos de clientes,8553000.0
+2026-04-14,ingreso,Ventas,Pedidos de clientes,17717000.0
+2026-04-20,ingreso,Ventas,Pedidos de clientes,2380000.0
+2026-04-24,ingreso,Ventas,Pedidos de clientes,25676000.0
+2026-04-25,ingreso,Ventas,Pedidos de clientes,360000.0
+2026-04-03,gasto,Proveedores,Compra de mercancía,13628000.0
+2026-04-12,gasto,Proveedores,Compra de mercancía,4539000.0
+2026-04-22,gasto,Proveedores,Compra de mercancía,11600000.0
+2026-04-30,gasto,Nómina,Pago de nómina,22500000.0
+2026-04-05,gasto,Arriendo,Bodega y local,4800000.0
+2026-04-10,gasto,Servicios públicos,"Energía, agua, internet",1936000.0
+2026-04-15,gasto,Transporte,Domicilios y fletes,3564000.0
+2026-04-08,gasto,Marketing,Pauta y promociones,1368000.0
+2026-04-25,gasto,Crédito bancario,Cuota e intereses,4100000.0
+2026-04-18,gasto,Impuestos,IVA / retenciones,3000000.0
+2026-05-05,ingreso,Ventas,Pedidos de clientes,18153000.0
+2026-05-06,ingreso,Ventas,Pedidos de clientes,22639000.0
+2026-05-10,ingreso,Ventas,Pedidos de clientes,2561000.0
+2026-05-10,ingreso,Ventas,Pedidos de clientes,8698000.0
+2026-05-12,ingreso,Ventas,Pedidos de clientes,4352000.0
+2026-05-15,ingreso,Ventas,Pedidos de clientes,14516000.0
+2026-05-19,ingreso,Ventas,Pedidos de clientes,1871000.0
+2026-05-26,ingreso,Ventas,Pedidos de clientes,500000.0
+2026-05-03,gasto,Proveedores,Compra de mercancía,20079000.0
+2026-05-12,gasto,Proveedores,Compra de mercancía,1965000.0
+2026-05-22,gasto,Proveedores,Compra de mercancía,7784000.0
+2026-05-30,gasto,Nómina,Pago de nómina,22500000.0
+2026-05-05,gasto,Arriendo,Bodega y local,4800000.0
+2026-05-10,gasto,Servicios públicos,"Energía, agua, internet",1984000.0
+2026-05-15,gasto,Transporte,Domicilios y fletes,3671000.0
+2026-05-08,gasto,Marketing,Pauta y promociones,1294000.0
+2026-05-25,gasto,Crédito bancario,Cuota e intereses,4100000.0
+2026-06-02,ingreso,Ventas,Pedidos de clientes,1283000.0
+2026-06-06,ingreso,Ventas,Pedidos de clientes,121000.0
+2026-06-08,ingreso,Ventas,Pedidos de clientes,17584000.0
+2026-06-15,ingreso,Ventas,Pedidos de clientes,3867000.0
+2026-06-17,ingreso,Ventas,Pedidos de clientes,7540000.0
+2026-06-24,ingreso,Ventas,Pedidos de clientes,9459000.0
+2026-06-26,ingreso,Ventas,Pedidos de clientes,1957000.0
+2026-06-27,ingreso,Ventas,Pedidos de clientes,31929000.0
+2026-06-03,gasto,Proveedores,Compra de mercancía,9437000.0
+2026-06-12,gasto,Proveedores,Compra de mercancía,21496000.0
+2026-06-22,gasto,Proveedores,Compra de mercancía,1200000.0
+2026-06-30,gasto,Nómina,Pago de nómina,22500000.0
+2026-06-20,gasto,Prestaciones sociales,Prima de servicios,9000000.0
+2026-06-05,gasto,Arriendo,Bodega y local,4800000.0
+2026-06-10,gasto,Servicios públicos,"Energía, agua, internet",1867000.0
+2026-06-15,gasto,Transporte,Domicilios y fletes,3781000.0
+2026-06-08,gasto,Marketing,Pauta y promociones,1679000.0
+2026-06-25,gasto,Crédito bancario,Cuota e intereses,4100000.0
+2026-06-18,gasto,Impuestos,IVA / retenciones,3000000.0
+2026-07-05,ingreso,Ventas,Pedidos de clientes,15900000.0
+2026-07-11,ingreso,Ventas,Pedidos de clientes,1509000.0
+2026-07-16,ingreso,Ventas,Pedidos de clientes,1455000.0
+2026-07-17,ingreso,Ventas,Pedidos de clientes,6472000.0
+2026-07-20,ingreso,Ventas,Pedidos de clientes,13414000.0
+2026-07-23,ingreso,Ventas,Pedidos de clientes,18926000.0
+2026-07-25,ingreso,Ventas,Pedidos de clientes,8203000.0
+2026-07-26,ingreso,Ventas,Pedidos de clientes,10257000.0
+2026-07-03,gasto,Proveedores,Compra de mercancía,13628000.0
+2026-07-12,gasto,Proveedores,Compra de mercancía,6351000.0
+2026-07-22,gasto,Proveedores,Compra de mercancía,12614000.0
+2026-07-30,gasto,Nómina,Pago de nómina,22500000.0
+2026-07-05,gasto,Arriendo,Bodega y local,4800000.0
+2026-07-10,gasto,Servicios públicos,"Energía, agua, internet",2036000.0
+2026-07-15,gasto,Transporte,Domicilios y fletes,3895000.0
+2026-07-08,gasto,Marketing,Pauta y promociones,1444000.0
+2026-07-25,gasto,Crédito bancario,Cuota e intereses,4100000.0
+2026-08-11,ingreso,Ventas,Pedidos de clientes,6490000.0
+2026-08-15,ingreso,Ventas,Pedidos de clientes,1726000.0
+2026-08-21,ingreso,Ventas,Pedidos de clientes,4447000.0
+2026-08-24,ingreso,Ventas,Pedidos de clientes,15752000.0
+2026-08-25,ingreso,Ventas,Pedidos de clientes,18347000.0
+2026-08-27,ingreso,Ventas,Pedidos de clientes,8811000.0
+2026-08-29,ingreso,Ventas,Pedidos de clientes,9210000.0
+2026-08-30,ingreso,Ventas,Pedidos de clientes,6108000.0
+2026-08-03,gasto,Proveedores,Compra de mercancía,14168000.0
+2026-08-12,gasto,Proveedores,Compra de mercancía,10576000.0
+2026-08-22,gasto,Proveedores,Compra de mercancía,4704000.0
+2026-08-30,gasto,Nómina,Pago de nómina,22500000.0
+2026-08-05,gasto,Arriendo,Bodega y local,4800000.0
+2026-08-10,gasto,Servicios públicos,"Energía, agua, internet",1964000.0
+2026-08-15,gasto,Transporte,Domicilios y fletes,4012000.0
+2026-08-08,gasto,Marketing,Pauta y promociones,1510000.0
+2026-08-25,gasto,Crédito bancario,Cuota e intereses,4100000.0
+2026-08-18,gasto,Impuestos,IVA / retenciones,3000000.0
+2026-09-03,ingreso,Ventas,Pedidos de clientes,10424000.0
+2026-09-05,ingreso,Ventas,Pedidos de clientes,8186000.0
+2026-09-16,ingreso,Ventas,Pedidos de clientes,1894000.0
+2026-09-18,ingreso,Ventas,Pedidos de clientes,24854000.0
+2026-09-22,ingreso,Ventas,Pedidos de clientes,307000.0
+2026-09-29,ingreso,Ventas,Pedidos de clientes,8909000.0
+2026-09-29,ingreso,Ventas,Pedidos de clientes,772000.0
+2026-09-29,ingreso,Ventas,Pedidos de clientes,19664000.0
+2026-09-03,gasto,Proveedores,Compra de mercancía,16998000.0
+2026-09-12,gasto,Proveedores,Compra de mercancía,14177000.0
+2026-09-22,gasto,Proveedores,Compra de mercancía,9697000.0
+2026-09-30,gasto,Nómina,Pago de nómina,22500000.0
+2026-09-05,gasto,Arriendo,Bodega y local,4800000.0
+2026-09-10,gasto,Servicios públicos,"Energía, agua, internet",1878000.0
+2026-09-15,gasto,Transporte,Domicilios y fletes,4132000.0
+2026-09-08,gasto,Marketing,Pauta y promociones,1505000.0
+2026-09-25,gasto,Crédito bancario,Cuota e intereses,4100000.0
+2025-06-21,ingreso,Ventas,Pedidos de clientes,9084000.0
+2025-09-08,ingreso,Ventas,Pedidos de clientes,486000.0
+,gasto,Marketing,Sin fecha,800000
+2026-08-14,gasto,Transporte,Monto ilegible,N/A
+2026-07-09,otro,Varios,Tipo desconocido,150000
